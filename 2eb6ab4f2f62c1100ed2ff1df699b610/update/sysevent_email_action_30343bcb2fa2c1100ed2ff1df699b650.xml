@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sysevent_email_action">
+    <sysevent_email_action action="INSERT_OR_UPDATE">
+        <action_insert>false</action_insert>
+        <action_update>true</action_update>
+        <active>true</active>
+        <advanced_condition/>
+        <affected_field_on_event/>
+        <category display_value="Uncategorized" name="Uncategorized">c97d83137f4432005f58108c3ffa917a</category>
+        <collection>incident</collection>
+        <condition/>
+        <content_type>text/html</content_type>
+        <default_interval/>
+        <description/>
+        <digest_from/>
+        <digest_html/>
+        <digest_reply_to/>
+        <digest_separator_html><![CDATA[<p>&nbsp;</p>
+<hr />
+<p>&nbsp;</p>]]></digest_separator_html>
+        <digest_separator_text><![CDATA[\n--------------------------------------------------------------------------------\n]]></digest_separator_text>
+        <digest_subject/>
+        <digest_template/>
+        <digest_text/>
+        <digestable>false</digestable>
+        <event_name>activate.life.cycle.migration</event_name>
+        <event_parm_1>false</event_parm_1>
+        <event_parm_2>false</event_parm_2>
+        <exclude_delegates>false</exclude_delegates>
+        <force_delivery>false</force_delivery>
+        <from/>
+        <generation_type>engine</generation_type>
+        <importance/>
+        <include_attachments>false</include_attachments>
+        <item>event.parm1</item>
+        <item_table/>
+        <mandatory>false</mandatory>
+        <message/>
+        <message_html><![CDATA[<p>&nbsp;</p>
+<p></p>
+<!-- [if !mso]><!-->
+<p></p>
+<!--<![endif]-->
+<style type="text/css">
+      #outlook a { padding:0; }
+      body { margin:0;padding:0;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%; }
+      table, td { border-collapse:collapse;mso-table-lspace:0pt;mso-table-rspace:0pt; }
+      img { border:0;height:auto;line-height:100%; outline:none;text-decoration:none;-ms-interpolation-mode:bicubic; }
+      p { display:block;margin:13px 0; }
+    </style>
+<!-- [if mso]>
+    <noscript>
+    <xml>
+    <o:OfficeDocumentSettings>
+      <o:AllowPNG/>
+      <o:PixelsPerInch>96</o:PixelsPerInch>
+    </o:OfficeDocumentSettings>
+    </xml>
+    </noscript>
+    <![endif]-->
+<p>&nbsp;</p>
+<!-- [if lte mso 11]>
+    <style type="text/css">
+      .mj-outlook-group-fix { width:100% !important; }
+    </style>
+    <![endif]-->
+<p>&nbsp;</p>
+<!-- [if !mso]><!-->
+<p><link href="https://fonts.googleapis.com/css?family=Ubuntu:300,400,500,700" rel="stylesheet" type="text/css" /></p>
+<style type="text/css">
+          @import url(https://fonts.googleapis.com/css?family=Ubuntu:300,400,500,700);
+        </style>
+<!--<![endif]-->
+<style type="text/css">
+      @media only screen and (min-width:480px) {
+        .mj-column-per-100 { width:100% !important; max-width: 100%; }
+.mj-column-per-50 { width:50% !important; max-width: 50%; }
+.mj-column-per-33-33333333333333 { width:33.33333333333333% !important; max-width: 33.33333333333333%; }
+      }
+    </style>
+<style media="screen and (min-width:480px)">
+      .moz-text-html .mj-column-per-100 { width:100% !important; max-width: 100%; }
+.moz-text-html .mj-column-per-50 { width:50% !important; max-width: 50%; }
+.moz-text-html .mj-column-per-33-33333333333333 { width:33.33333333333333% !important; max-width: 33.33333333333333%; }
+    </style>
+<style type="text/css">
+    
+    
+
+    @media only screen and (max-width:480px) {
+      table.mj-full-width-mobile { width: 100% !important; }
+      td.mj-full-width-mobile { width: auto !important; }
+    }
+  
+    </style>
+<style type="text/css">
+    
+    </style>
+<div><!-- Hero image --> <!-- [if mso | IE]><table align="center" border="0" cellpadding="0" cellspacing="0" class="" role="presentation" style="width:600px;" width="600" bgcolor="#000000" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
+<div style="background: #000000; background-color: #000000; margin: 0px auto; max-width: 600px;">
+<table style="background: #000000; background-color: #000000; width: 100%;" role="presentation" border="0" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td style="direction: ltr; font-size: 0px; padding: 0px; text-align: center;"><!-- [if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="" style="vertical-align:top;width:600px;" ><![endif]-->
+<div class="mj-column-per-100 mj-outlook-group-fix" style="font-size: 0px; text-align: left; direction: ltr; display: inline-block; vertical-align: top; width: 100%;">
+<table style="vertical-align: top;" role="presentation" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="font-size: 0px; padding: 0px; word-break: break-word;" align="center">
+<table style="border-collapse: collapse; border-spacing: 0px;" role="presentation" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="width: 600px;"><a href="https://www.youtube.com/sphero" target="_blank" rel="noopener"> <img style="border: 0; display: block; outline: none; text-decoration: none; height: auto; width: 100%; font-size: 13px;" src="https://dmmedia.sphero.com/email-marketing/Star-Wars/Star_Wars_Launch_Email_1_REAL_Hero.jpg" alt="These Are The Droids You're Looking For" width="600" height="auto" /> </a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<!-- [if mso | IE]></td></tr></table><![endif]--></td>
+</tr>
+</tbody>
+</table>
+</div>
+<!-- [if mso | IE]></td></tr></table><![endif]--> <!-- Features Section --> <!-- [if mso | IE]><table align="center" border="0" cellpadding="0" cellspacing="0" class="" role="presentation" style="width:600px;" width="600" bgcolor="#000000" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
+<div style="background: #000000; background-color: #000000; margin: 0px auto; max-width: 600px;">
+<table style="background: #000000; background-color: #000000; width: 100%;" role="presentation" border="0" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td style="direction: ltr; font-size: 0px; padding: 20px 0; padding-top: 10; text-align: center;"><!-- [if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="" style="vertical-align:top;width:600px;" ><![endif]-->
+<div class="mj-column-per-100 mj-outlook-group-fix" style="font-size: 0px; text-align: left; direction: ltr; display: inline-block; vertical-align: top; width: 100%;">
+<table style="vertical-align: top;" role="presentation" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="font-size: 0px; padding: 0px; word-break: break-word;" align="center">
+<table style="border-collapse: collapse; border-spacing: 0px;" role="presentation" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="width: 600px;"><img style="border: 0; display: block; outline: none; text-decoration: none; height: auto; width: 100%; font-size: 13px;" src="https://dmmedia.sphero.com/email-marketing/Star-Wars/Star_Wars_Launch_Email_1_features.jpg" alt="Featuring Authentic Movement, Holographic Simulation, Droid to Droid Experience, and Watch With Me" width="600" height="auto" /></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<!-- [if mso | IE]></td></tr></table><![endif]--></td>
+</tr>
+</tbody>
+</table>
+</div>
+<!-- [if mso | IE]></td></tr></table><![endif]--> <!-- R2-D2 Section --> <!-- [if mso | IE]><table align="center" border="0" cellpadding="0" cellspacing="0" class="" role="presentation" style="width:600px;" width="600" bgcolor="#000000" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><v:rect style="width:600px;" xmlns:v="urn:schemas-microsoft-com:vml" fill="true" stroke="false"><v:fill origin="0.5, 0" position="0.5, 0" src="https://dmmedia.sphero.com/email-marketing/Star-Wars/Star_Wars_Launch_Email_1.r2BG.jpg" color="#000000" type="tile" /><v:textbox style="mso-fit-shape-to-text:true" inset="0,0,0,0"><![endif]-->
+<div style="background: #000000 url('https://dmmedia.sphero.com/email-marketing/Star-Wars/Star_Wars_Launch_Email_1.r2BG.jpg') center top / auto no-repeat; background-position: center top; background-repeat: no-repeat; background-size: auto; margin: 0px auto; max-width: 600px;">
+<div style="line-height: 0; font-size: 0;">
+<table style="background: #000000 url('https://dmmedia.sphero.com/email-marketing/Star-Wars/Star_Wars_Launch_Email_1.r2BG.jpg') center top / auto no-repeat; background-position: center top; background-repeat: no-repeat; background-size: auto; width: 100%;" role="presentation" border="0" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td style="direction: ltr; font-size: 0px; padding: 20px 0; padding-bottom: 0px; padding-left: 20px; padding-top: 80; text-align: center;"><!-- [if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="" style="vertical-align:top;width:290px;" ><![endif]-->
+<div class="mj-column-per-50 mj-outlook-group-fix" style="font-size: 0px; text-align: left; direction: ltr; display: inline-block; vertical-align: top; width: 100%;">
+<table style="vertical-align: top;" role="presentation" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="font-size: 0px; word-break: break-word;">
+<div style="height: 15px; line-height: 15px;"> </div>
+</td>
+</tr>
+<tr>
+<td style="font-size: 0px; padding: 10px 25px; word-break: break-word;" align="center">
+<table style="border-collapse: collapse; border-spacing: 0px;" role="presentation" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="width: 196px;"><a href="https://www.sphero.com/starwars/r2d2" target="_blank" rel="noopener"> <img style="border: 0; display: block; outline: none; text-decoration: none; height: auto; width: 100%; font-size: 13px;" src="https://dmmedia.sphero.com/email-marketing/Star-Wars/Star_Wars_Launch_Email_1_R2text.png" alt="Buy R2D2" width="196" height="auto" /> </a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style="font-size: 0px; padding: 10px 25px; word-break: break-word;" align="left">
+<div style="font-family: Helvetica Neue; font-size: 14px; line-height: 2; text-align: left; color: #ffffff;">This is the Droid&trade; you&rsquo;re looking for. R2-D2&trade; is an Astromech Droid&trade; in the Rebel Alliance from a galaxy far, far away.... The specialized tech in R2-D2 is unlike any other Astromech Droid, making it as authentic as the trusty Artoo you&rsquo;ve come to know and love.</div>
+</td>
+</tr>
+<tr>
+<td style="font-size: 0px; word-break: break-word;">
+<div style="height: 5px; line-height: 5px;"> </div>
+</td>
+</tr>
+<tr>
+<td style="font-size: 0px; padding: 10px 25px; word-break: break-word;" align="center">
+<table style="border-collapse: collapse; border-spacing: 0px;" role="presentation" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="width: 129px;"><a href="https://store.sphero.com/products/r2-d2" target="_blank" rel="noopener"> <img style="border: 0; display: block; outline: none; text-decoration: none; height: auto; width: 100%; font-size: 13px;" src="https://dmmedia.sphero.com/email-marketing/Star-Wars/Star_Wars_Launch_Email_1_R2_button.png" alt="Buy R2-D2" width="129" height="auto" /> </a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<!-- [if mso | IE]></td><td class="" style="vertical-align:top;width:290px;" ><![endif]-->
+<div class="mj-column-per-50 mj-outlook-group-fix" style="font-size: 0px; text-align: left; direction: ltr; display: inline-block; vertical-align: top; width: 100%;">
+<table style="vertical-align: top;" role="presentation" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="font-size: 0px; word-break: break-word;">
+<div style="height: 45px; line-height: 45px;"> </div>
+</td>
+</tr>
+<tr>
+<td style="font-size: 0px; padding: 0px; word-break: break-word;" align="center">
+<table style="border-collapse: collapse; border-spacing: 0px;" role="presentation" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="width: 290px;"><a href="https://www.sphero.com/starwars/r2d2" target="_blank" rel="noopener"> <img style="border: 0; display: block; outline: none; text-decoration: none; height: auto; width: 100%; font-size: 13px;" src="https://dmmedia.sphero.com/email-marketing/Star-Wars/Star_Wars_Launch_Email_1_R2-D2.png" alt="Get the new R2-D2" width="290" height="auto" /> </a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<!-- [if mso | IE]></td></tr></table><![endif]--></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<!-- [if mso | IE]></v:textbox></v:rect></td></tr></table><![endif]--> <!-- BB-9E Section --> <!-- [if mso | IE]><table align="center" border="0" cellpadding="0" cellspacing="0" class="" role="presentation" style="width:600px;" width="600" bgcolor="#000000" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><v:rect style="width:600px;" xmlns:v="urn:schemas-microsoft-com:vml" fill="true" stroke="false"><v:fill origin="0.5, 0" position="0.5, 0" src="https://dmmedia.sphero.com/email-marketing/Star-Wars/Star_Wars_Launch_Email_1REDbg.jpg" color="#000000" type="tile" /><v:textbox style="mso-fit-shape-to-text:true" inset="0,0,0,0"><![endif]-->
+<div style="background: #000000 url('https://dmmedia.sphero.com/email-marketing/Star-Wars/Star_Wars_Launch_Email_1REDbg.jpg') center top / auto no-repeat; background-position: center top; background-repeat: no-repeat; background-size: auto; margin: 0px auto; max-width: 600px;">
+<div style="line-height: 0; font-size: 0;">
+<table style="background: #000000 url('https://dmmedia.sphero.com/email-marketing/Star-Wars/Star_Wars_Launch_Email_1REDbg.jpg') center top / auto no-repeat; background-position: center top; background-repeat: no-repeat; background-size: auto; width: 100%;" role="presentation" border="0" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td style="direction: ltr; font-size: 0px; padding: 20px 0; padding-left: 20px; padding-top: 30; text-align: center;"><!-- [if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="" style="vertical-align:top;width:290px;" ><![endif]-->
+<div class="mj-column-per-50 mj-outlook-group-fix" style="font-size: 0px; text-align: left; direction: ltr; display: inline-block; vertical-align: top; width: 100%;">
+<table style="vertical-align: top;" role="presentation" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="font-size: 0px; word-break: break-word;">
+<div style="height: 37px; line-height: 37px;"> </div>
+</td>
+</tr>
+<tr>
+<td style="font-size: 0px; padding: 10px 25px; word-break: break-word;" align="center">
+<table style="border-collapse: collapse; border-spacing: 0px;" role="presentation" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="width: 196px;"><a href="https://www.sphero.com/starwars/bb9e" target="_blank" rel="noopener"> <img style="border: 0; display: block; outline: none; text-decoration: none; height: auto; width: 100%; font-size: 13px;" src="https://dmmedia.sphero.com/email-marketing/Star-Wars/Star_Wars_Launch_Email_1_BB-9E-text.png" alt="Buy BB-9E" width="196" height="auto" /> </a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style="font-size: 0px; padding: 10px 25px; word-break: break-word;" align="left">
+<div style="font-family: Helvetica Neue; font-size: 14px; line-height: 2; text-align: left; color: #ffffff;">There&rsquo;s a new disturbance in the Force. BB-9E&trade; is a menacing Astromech Droid of the First Order. This vigilant and intimidating Droid is always on high alert. This is NOT the Droid you&rsquo;re looking for&hellip; it&rsquo;s the Droid that&rsquo;s looking for you.</div>
+</td>
+</tr>
+<tr>
+<td style="font-size: 0px; word-break: break-word;">
+<div style="height: 30px; line-height: 30px;"> </div>
+</td>
+</tr>
+<tr>
+<td style="font-size: 0px; padding: 10px 25px; word-break: break-word;" align="center">
+<table style="border-collapse: collapse; border-spacing: 0px;" role="presentation" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="width: 129px;"><a href="https://store.sphero.com/products/bb-9e" target="_blank" rel="noopener"> <img style="border: 0; display: block; outline: none; text-decoration: none; height: auto; width: 100%; font-size: 13px;" src="https://dmmedia.sphero.com/email-marketing/Star-Wars/Star_Wars_Launch_Email_1_BB-9E-button.png" alt="Buy BB-9E" width="129" height="auto" /> </a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<!-- [if mso | IE]></td><td class="" style="vertical-align:top;width:290px;" ><![endif]-->
+<div class="mj-column-per-50 mj-outlook-group-fix" style="font-size: 0px; text-align: left; direction: ltr; display: inline-block; vertical-align: top; width: 100%;">
+<table style="vertical-align: top;" role="presentation" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="font-size: 0px; word-break: break-word;">
+<div style="height: 60px; line-height: 60px;"> </div>
+</td>
+</tr>
+<tr>
+<td style="font-size: 0px; padding: 0px; word-break: break-word;" align="center">
+<table style="border-collapse: collapse; border-spacing: 0px;" role="presentation" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="width: 290px;"><a href="https://www.sphero.com/starwars/bb9e" target="_blank" rel="noopener"> <img style="border: 0; display: block; outline: none; text-decoration: none; height: auto; width: 100%; font-size: 13px;" src="https://dmmedia.sphero.com/email-marketing/Star-Wars/Star_Wars_Launch_Email_1_bb9e.png" alt="Get the new BB-9E" width="290" height="auto" /> </a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<!-- [if mso | IE]></td></tr></table><![endif]--></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<!-- [if mso | IE]></v:textbox></v:rect></td></tr></table><![endif]--> <!-- BB-8 Section --> <!-- [if mso | IE]><table align="center" border="0" cellpadding="0" cellspacing="0" class="" role="presentation" style="width:600px;" width="600" bgcolor="#000000" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><v:rect style="width:600px;" xmlns:v="urn:schemas-microsoft-com:vml" fill="true" stroke="false"><v:fill origin="0.5, 0" position="0.5, 0" src="https://dmmedia.sphero.com/email-marketing/Star-Wars/Star_Wars_Launch_Email_1_OrangeBG.jpg" color="#000000" type="tile" /><v:textbox style="mso-fit-shape-to-text:true" inset="0,0,0,0"><![endif]-->
+<div style="background: #000000 url('https://dmmedia.sphero.com/email-marketing/Star-Wars/Star_Wars_Launch_Email_1_OrangeBG.jpg') center top / auto no-repeat; background-position: center top; background-repeat: no-repeat; background-size: auto; margin: 0px auto; max-width: 600px;">
+<div style="line-height: 0; font-size: 0;">
+<table style="background: #000000 url('https://dmmedia.sphero.com/email-marketing/Star-Wars/Star_Wars_Launch_Email_1_OrangeBG.jpg') center top / auto no-repeat; background-position: center top; background-repeat: no-repeat; background-size: auto; width: 100%;" role="presentation" border="0" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td style="direction: ltr; font-size: 0px; padding: 20px 0; padding-left: 20px; padding-top: 0; text-align: center;"><!-- [if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="" style="vertical-align:top;width:290px;" ><![endif]-->
+<div class="mj-column-per-50 mj-outlook-group-fix" style="font-size: 0px; text-align: left; direction: ltr; display: inline-block; vertical-align: top; width: 100%;">
+<table style="vertical-align: top;" role="presentation" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="font-size: 0px; word-break: break-word;">
+<div style="height: 85px; line-height: 85px;"> </div>
+</td>
+</tr>
+<tr>
+<td style="font-size: 0px; padding: 10px 25px; word-break: break-word;" align="center">
+<table style="border-collapse: collapse; border-spacing: 0px;" role="presentation" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="width: 196px;"><a href="https://www.sphero.com/starwars/bb8" target="_blank" rel="noopener"> <img style="border: 0; display: block; outline: none; text-decoration: none; height: auto; width: 100%; font-size: 13px;" src="https://dmmedia.sphero.com/email-marketing/Star-Wars/Star_Wars_Launch_Email_1_bb8-text.png" alt="Buy BB-8" width="196" height="auto" /> </a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style="font-size: 0px; padding: 10px 25px; word-break: break-word;" align="left">
+<div style="font-family: Helvetica Neue; font-size: 14px; line-height: 2; text-align: left; color: #ffffff;">Orange and white. One of a kind. BB-8&trade; is the loyal Astromech Droid of Resistance pilot Poe Dameron. The specially designed technology in this unique BB unit makes it invaluable to the Resistance. This Droid is full of features and will stop at nothing to complete its mission.</div>
+</td>
+</tr>
+<tr>
+<td style="font-size: 0px; word-break: break-word;">
+<div style="height: 50px; line-height: 50px;"> </div>
+</td>
+</tr>
+<tr>
+<td style="font-size: 0px; padding: 10px 25px; word-break: break-word;" align="center">
+<table style="border-collapse: collapse; border-spacing: 0px;" role="presentation" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="width: 129px;"><a href="https://store.sphero.com/products/bb-8-with-trainer" target="_blank" rel="noopener"> <img style="border: 0; display: block; outline: none; text-decoration: none; height: auto; width: 100%; font-size: 13px;" src="https://dmmedia.sphero.com/email-marketing/Star-Wars/Star_Wars_Launch_Email_1_bb8-button.png" alt="Buy BB-8" width="129" height="auto" /> </a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<!-- [if mso | IE]></td><td class="" style="vertical-align:top;width:290px;" ><![endif]-->
+<div class="mj-column-per-50 mj-outlook-group-fix" style="font-size: 0px; text-align: left; direction: ltr; display: inline-block; vertical-align: top; width: 100%;">
+<table style="vertical-align: top;" role="presentation" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="font-size: 0px; word-break: break-word;">
+<div style="height: 55px; line-height: 55px;"> </div>
+</td>
+</tr>
+<tr>
+<td style="font-size: 0px; padding: 0px; word-break: break-word;" align="center">
+<table style="border-collapse: collapse; border-spacing: 0px;" role="presentation" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="width: 290px;"><a href="https://www.sphero.com/starwars/bb8" target="_blank" rel="noopener"> <img style="border: 0; display: block; outline: none; text-decoration: none; height: auto; width: 100%; font-size: 13px;" src="https://dmmedia.sphero.com/email-marketing/Star-Wars/Star_Wars_Launch_Email_1_bb8.png" alt="Get the new BB-8" width="290" height="auto" /> </a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style="font-size: 0px; word-break: break-word;">
+<div style="height: 155px; line-height: 155px;"> </div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<!-- [if mso | IE]></td></tr></table><![endif]--></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<!-- [if mso | IE]></v:textbox></v:rect></td></tr></table><![endif]--> <!-- Bottom Bar --> <!-- [if mso | IE]><table align="center" border="0" cellpadding="0" cellspacing="0" class="" role="presentation" style="width:600px;" width="600" bgcolor="#424143" ><tr><td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]-->
+<div style="background: #424143; background-color: #424143; margin: 0px auto; max-width: 600px;">
+<table style="background: #424143; background-color: #424143; width: 100%;" role="presentation" border="0" cellspacing="0" cellpadding="0" align="center">
+<tbody>
+<tr>
+<td style="direction: ltr; font-size: 0px; padding: 20px 0; padding-bottom: 0px; padding-right: 10px; padding-top: 0; text-align: center;"><!-- [if mso | IE]><table role="presentation" border="0" cellpadding="0" cellspacing="0"><tr><td class="" style="vertical-align:top;width:196.66666666666663px;" ><![endif]-->
+<div class="mj-column-per-33-33333333333333 mj-outlook-group-fix" style="font-size: 0px; text-align: left; direction: ltr; display: inline-block; vertical-align: top; width: 100%;">&nbsp;</div>
+<!-- [if mso | IE]></td><td class="" style="vertical-align:top;width:196.66666666666663px;" ><![endif]-->
+<div class="mj-column-per-33-33333333333333 mj-outlook-group-fix" style="font-size: 0px; text-align: left; direction: ltr; display: inline-block; vertical-align: top; width: 100%;">
+<table style="vertical-align: top;" role="presentation" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="font-size: 0px; padding: 10px 25px; word-break: break-word;" align="center">
+<table style="border-collapse: collapse; border-spacing: 0px;" role="presentation" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="width: 134px;"><a href="https://www.sphero.com" target="_blank" rel="noopener"> <img style="border: 0; display: block; outline: none; text-decoration: none; height: auto; width: 100%; font-size: 13px;" src="https://dmmedia.sphero.com/email-marketing/Star-Wars/sphero-logo-bottom-gray.png" width="134" height="auto" /> </a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<!-- [if mso | IE]></td><td class="" style="vertical-align:top;width:196.66666666666663px;" ><![endif]-->
+<div class="mj-column-per-33-33333333333333 mj-outlook-group-fix" style="font-size: 0px; text-align: left; direction: ltr; display: inline-block; vertical-align: top; width: 100%;">
+<table style="vertical-align: top;" role="presentation" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="font-size: 0px; padding: 10px 25px; word-break: break-word;" align="center">
+<div style="font-family: Ubuntu, Helvetica, Arial, sans-serif; font-size: 10px; line-height: 1; text-align: center; color: #ffffff;">&copy; &amp; &trade; Lucasfilm Ltd.</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<!-- [if mso | IE]></td></tr></table><![endif]--></td>
+</tr>
+</tbody>
+</table>
+</div>
+<!-- [if mso | IE]></td></tr></table><![endif]--></div>]]></message_html>
+        <message_list/>
+        <message_text/>
+        <name>mjml test notification</name>
+        <omit_watermark>false</omit_watermark>
+        <order>100</order>
+        <push_message_only>false</push_message_only>
+        <recipient_fields/>
+        <recipient_groups/>
+        <recipient_users/>
+        <reply_to/>
+        <send_self>true</send_self>
+        <sms_alternate/>
+        <style/>
+        <subject/>
+        <subscribable>false</subscribable>
+        <sys_class_name>sysevent_email_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-04 03:49:28</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>30343bcb2fa2c1100ed2ff1df699b650</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>mjml test notification</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="MJML" source="x_298439_mjml">2eb6ab4f2f62c1100ed2ff1df699b610</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MJML">2eb6ab4f2f62c1100ed2ff1df699b610</sys_scope>
+        <sys_update_name>sysevent_email_action_30343bcb2fa2c1100ed2ff1df699b650</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-04 03:50:22</sys_updated_on>
+        <sys_version>2</sys_version>
+        <template display_value="Unsubscribe and Preferences">7ed0481f3b0b2200c869c2c703efc487</template>
+        <type>email</type>
+        <weight>0</weight>
+    </sysevent_email_action>
+</record_update>
