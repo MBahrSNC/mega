@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>mike.bahr</sys_created_by>
+        <sys_created_on>2022-04-05 01:54:32</sys_created_on>
+        <sys_id>f9a360eb2fe201100ed2ff1df699b697</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_298439_mjml_templates.x_298439_mjml.templates_user</sys_name>
+        <sys_package display_value="MJML" source="x_298439_mjml">2eb6ab4f2f62c1100ed2ff1df699b610</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MJML">2eb6ab4f2f62c1100ed2ff1df699b610</sys_scope>
+        <sys_security_acl display_value="x_298439_mjml_templates">3da360eb2fe201100ed2ff1df699b688</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_f9a360eb2fe201100ed2ff1df699b697</sys_update_name>
+        <sys_updated_by>mike.bahr</sys_updated_by>
+        <sys_updated_on>2022-04-05 01:54:32</sys_updated_on>
+        <sys_user_role display_value="x_298439_mjml.templates_user" name="x_298439_mjml.templates_user">55a3ecab2fe201100ed2ff1df699b650</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
