@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="email_notification" label="Email Notification" language="en" table="x_298439_mjml_templates">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>email_notification</element>
+            <help/>
+            <hint/>
+            <label>Email Notification</label>
+            <language>en</language>
+            <name>x_298439_mjml_templates</name>
+            <plural>Email Notifications</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>mike.bahr</sys_created_by>
+            <sys_created_on>2022-04-05 02:01:09</sys_created_on>
+            <sys_id>e6256c2f2fe201100ed2ff1df699b617</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Email Notification</sys_name>
+            <sys_package display_value="MJML" source="x_298439_mjml">2eb6ab4f2f62c1100ed2ff1df699b610</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="MJML">2eb6ab4f2f62c1100ed2ff1df699b610</sys_scope>
+            <sys_update_name>sys_documentation_x_298439_mjml_templates_email_notification_en</sys_update_name>
+            <sys_updated_by>mike.bahr</sys_updated_by>
+            <sys_updated_on>2022-04-05 02:01:09</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
