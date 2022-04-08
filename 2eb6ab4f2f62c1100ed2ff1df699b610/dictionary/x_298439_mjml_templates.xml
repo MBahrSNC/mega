@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element label="Templates" max_length="40" name="x_298439_mjml_templates" sizeclass="1" type="collection">
         <element display="true" label="Email Notification" mandatory="true" max_length="32" name="email_notification" reference="sysevent_email_action" type="reference"/>
-        <element label="html" max_length="100000" name="html" type="string"/>
+        <element label="HTML" max_length="100000" name="html" type="string"/>
         <element label="MJML" max_length="100000" name="mjml" type="string"/>
         <index name="index">
             <element name="email_notification"/>
