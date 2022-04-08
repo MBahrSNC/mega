@@ -2,32 +2,34 @@
     <sys_script_email action="INSERT_OR_UPDATE">
         <name>mjml_notification_script</name>
         <new_lines_to_html>false</new_lines_to_html>
-        <script><![CDATA[(function runMailScript(/* GlideRecord */ current, /* TemplatePrinter */ template,
-          /* Optional EmailOutbound */ email, /* Optional GlideRecord */ email_action,
-          /* Optional GlideRecord */ event) {
+        <script><![CDATA[(function runMailScript( /* GlideRecord */ current, /* TemplatePrinter */ template,
+    /* Optional EmailOutbound */
+    email, /* Optional GlideRecord */ email_action,
+    /* Optional GlideRecord */
+    event) {
 
-          // Add your code here
+    // Add your code here
 
-	var gr = new GlideRecord('x_298439_mjml_templates');
-   gr.addQuery('email_notification',email_action.sys_id.toString());
-   gr.query();
-   if (gr.next()) {
-      template.print(gr.html);
-   }
-	
-	
+    var gr = new GlideRecord('x_298439_mjml_templates');
+    gr.addQuery('email_notification', email_action.sys_id.toString());
+    gr.query();
+    if (gr.next()) {
+        template.print(gr.html.toString());
+    }
+
+
 })(current, template, email, email_action, event);]]></script>
         <sys_class_name>sys_script_email</sys_class_name>
         <sys_created_by>mike.bahr</sys_created_by>
         <sys_created_on>2022-04-07 15:02:13</sys_created_on>
         <sys_id>903a2d902f7201100ed2ff1df699b630</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>6</sys_mod_count>
         <sys_name>mjml_notification_script</sys_name>
         <sys_package display_value="MJML" source="x_298439_mjml">2eb6ab4f2f62c1100ed2ff1df699b610</sys_package>
         <sys_policy/>
         <sys_scope display_value="MJML">2eb6ab4f2f62c1100ed2ff1df699b610</sys_scope>
         <sys_update_name>sys_script_email_903a2d902f7201100ed2ff1df699b630</sys_update_name>
         <sys_updated_by>mike.bahr</sys_updated_by>
-        <sys_updated_on>2022-04-07 15:08:54</sys_updated_on>
+        <sys_updated_on>2022-04-08 02:57:22</sys_updated_on>
     </sys_script_email>
 </record_update>
