@@ -46,12 +46,9 @@
     request.setRequestBody(JSON.stringify(obj));
 
     var response = request.execute();
-
-//     var parseVars = JSON.parse(response.getBody()).html.replace(/<</g, "${");
-//     parseVars = parseVars.replace(/>>/g, "}");
 	
-	var parseVars = JSON.parse(response.getBody()).html.replaceAll('<<', '${');
-    parseVars = parseVars.replaceAll('>>', '}');
+	var parseVars = JSON.parse(response.getBody()).html.replaceAll('{{', '${');
+    parseVars = parseVars.replaceAll('}}', '}');
 	parseVars = parseVars.trim();
     current.html = parseVars;
     current.update();
@@ -63,7 +60,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>6956a0af2fe201100ed2ff1df699b64f</sys_id>
-        <sys_mod_count>34</sys_mod_count>
+        <sys_mod_count>36</sys_mod_count>
         <sys_name>Convert MJML to HTML</sys_name>
         <sys_overrides/>
         <sys_package display_value="MJML" source="x_298439_mjml">2eb6ab4f2f62c1100ed2ff1df699b610</sys_package>
@@ -71,7 +68,7 @@
         <sys_scope display_value="MJML">2eb6ab4f2f62c1100ed2ff1df699b610</sys_scope>
         <sys_update_name>sys_script_6956a0af2fe201100ed2ff1df699b64f</sys_update_name>
         <sys_updated_by>mike.bahr</sys_updated_by>
-        <sys_updated_on>2022-04-08 02:42:47</sys_updated_on>
+        <sys_updated_on>2022-04-11 22:53:09</sys_updated_on>
         <template/>
         <when>async_always</when>
     </sys_script>

@@ -11,16 +11,16 @@
         <sys_created_by>mike.bahr</sys_created_by>
         <sys_created_on>2022-04-05 01:26:35</sys_created_on>
         <sys_id>482d14272fe201100ed2ff1df699b6f7</sys_id>
-        <sys_mod_count>5</sys_mod_count>
+        <sys_mod_count>6</sys_mod_count>
         <sys_name>x_298439_mjml.api.key</sys_name>
         <sys_package display_value="MJML" source="x_298439_mjml">2eb6ab4f2f62c1100ed2ff1df699b610</sys_package>
         <sys_policy/>
         <sys_scope display_value="MJML">2eb6ab4f2f62c1100ed2ff1df699b610</sys_scope>
         <sys_update_name>sys_properties_482d14272fe201100ed2ff1df699b6f7</sys_update_name>
         <sys_updated_by>mike.bahr</sys_updated_by>
-        <sys_updated_on>2022-04-08 00:45:15</sys_updated_on>
+        <sys_updated_on>2022-04-11 22:53:35</sys_updated_on>
         <type>string</type>
-        <value>36235bd2-5522-48a1-998d-6a1603f2e04f:4c85ce26-b4ac-4769-bd48-1c324cfb26b0</value>
+        <value/>
         <write_roles/>
     </sys_properties>
     <sys_translated_text action="delete_multiple" query="documentkey=482d14272fe201100ed2ff1df699b6f7"/>
