@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="mid_cert_check_policy">
+    <mid_cert_check_policy action="DELETE">
+        <active>true</active>
+        <enable_cert_chain_validation>false</enable_cert_chain_validation>
+        <enable_hostname_validation>false</enable_hostname_validation>
+        <enable_revocation_validation>false</enable_revocation_validation>
+        <internal_scope>x_298439_mjml</internal_scope>
+        <name>MJML</name>
+        <policy_type>overridden_host</policy_type>
+        <sys_class_name>mid_cert_check_policy</sys_class_name>
+        <sys_created_by>mike.bahr</sys_created_by>
+        <sys_created_on>2022-04-07 17:34:11</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>76cd42982ff201100ed2ff1df699b697</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>MJML</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="MJML" source="x_298439_mjml">2eb6ab4f2f62c1100ed2ff1df699b610</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MJML">2eb6ab4f2f62c1100ed2ff1df699b610</sys_scope>
+        <sys_update_name>mid_cert_check_policy_76cd42982ff201100ed2ff1df699b697</sys_update_name>
+        <sys_updated_by>mike.bahr</sys_updated_by>
+        <sys_updated_on>2022-04-07 17:34:11</sys_updated_on>
+    </mid_cert_check_policy>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="MJML">2eb6ab4f2f62c1100ed2ff1df699b610</application>
+        <file_path/>
+        <instance_id>525519cadb0b005852dd2f17d496198c</instance_id>
+        <instance_name>dev101432</instance_name>
+        <name>mid_cert_check_policy_76cd42982ff201100ed2ff1df699b697</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="mid_cert_check_policy"><mid_cert_check_policy action="INSERT_OR_UPDATE"><active>true</active><enable_cert_chain_validation>false</enable_cert_chain_validation><enable_hostname_validation>false</enable_hostname_validation><enable_revocation_validation>false</enable_revocation_validation><internal_scope>x_298439_mjml</internal_scope><name>MJML</name><policy_type>overridden_host</policy_type><sys_class_name>mid_cert_check_policy</sys_class_name><sys_created_by>mike.bahr</sys_created_by><sys_created_on>2022-04-07 17:34:11</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>76cd42982ff201100ed2ff1df699b697</sys_id><sys_mod_count>0</sys_mod_count><sys_name>MJML</sys_name><sys_overrides/><sys_package display_value="MJML" source="x_298439_mjml">2eb6ab4f2f62c1100ed2ff1df699b610</sys_package><sys_policy/><sys_scope display_value="MJML">2eb6ab4f2f62c1100ed2ff1df699b610</sys_scope><sys_update_name>mid_cert_check_policy_76cd42982ff201100ed2ff1df699b697</sys_update_name><sys_updated_by>mike.bahr</sys_updated_by><sys_updated_on>2022-04-07 17:34:11</sys_updated_on></mid_cert_check_policy></record_update>]]></payload>
+        <payload_hash>70276019</payload_hash>
+        <record_name>MJML</record_name>
+        <reverted_from/>
+        <source>bbec10272fe201100ed2ff1df699b6e1</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>mike.bahr</sys_created_by>
+        <sys_created_on>2022-04-07 17:34:11</sys_created_on>
+        <sys_id>a5edc2982ff201100ed2ff1df699b650</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18005173f500000001</sys_recorded_at>
+        <sys_updated_by>mike.bahr</sys_updated_by>
+        <sys_updated_on>2022-04-07 17:34:11</sys_updated_on>
+        <type>MID Certificate Policy</type>
+        <update_guid>ededc298e0f20110e2378dc3f5b9c04f</update_guid>
+        <update_guid_history>ededc298e0f20110e2378dc3f5b9c04f:70276019</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="MJML">62fd8a582ff201100ed2ff1df699b6b9</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>mike.bahr</sys_created_by>
+        <sys_created_on>2022-04-07 17:34:32</sys_created_on>
+        <sys_db_object display_value="" name="mid_cert_check_policy">mid_cert_check_policy</sys_db_object>
+        <sys_id>999ade7d3ec54848a405b19264cb0290</sys_id>
+        <sys_metadata>76cd42982ff201100ed2ff1df699b697</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>MJML</sys_name>
+        <sys_package display_value="MJML" source="x_298439_mjml">2eb6ab4f2f62c1100ed2ff1df699b610</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="MJML">2eb6ab4f2f62c1100ed2ff1df699b610</sys_scope>
+        <sys_scope_delete display_value="">147ba54de0824e60929d8e416c836400</sys_scope_delete>
+        <sys_update_name>mid_cert_check_policy_76cd42982ff201100ed2ff1df699b697</sys_update_name>
+        <sys_update_version display_value="mid_cert_check_policy_76cd42982ff201100ed2ff1df699b697">a5edc2982ff201100ed2ff1df699b650</sys_update_version>
+        <sys_updated_by>mike.bahr</sys_updated_by>
+        <sys_updated_on>2022-04-07 17:34:32</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
