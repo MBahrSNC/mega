@@ -1,20 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="mjml" table="x_298439_mjml_templates">
+    <sys_dictionary action="INSERT_OR_UPDATE" element="template_variables" table="x_298439_mjml_templates">
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
-        <attributes>edge_encryption_enabled=true</attributes>
+        <attributes/>
         <audit>false</audit>
-        <calculation><![CDATA[(function calculatedFieldValue(current) {
-
-	// Add your code here
-	return '';  // return the calculated value
-
-})(current);]]></calculation>
-        <choice/>
+        <calculation/>
+        <choice>0</choice>
         <choice_field/>
         <choice_table/>
-        <column_label>MJML</column_label>
+        <column_label>Template Variables</column_label>
         <comments/>
         <create_roles/>
         <default_value/>
@@ -27,14 +22,14 @@
         <dynamic_creation_script/>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <element>mjml</element>
+        <element>template_variables</element>
         <element_reference>false</element_reference>
         <foreign_database/>
         <function_definition/>
         <function_field>false</function_field>
-        <internal_type display_value="">html_template</internal_type>
+        <internal_type display_value="">script_plain</internal_type>
         <mandatory>false</mandatory>
-        <max_length>100000</max_length>
+        <max_length>4000</max_length>
         <name>x_298439_mjml_templates</name>
         <next_element/>
         <primary>false</primary>
@@ -51,17 +46,17 @@
         <spell_check>false</spell_check>
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
-        <sys_created_by>mike.bahr</sys_created_by>
-        <sys_created_on>2022-04-05 02:02:40</sys_created_on>
-        <sys_id>bea96b1c2fbe0110bd54d5f62799b65a</sys_id>
+        <sys_created_by>jacebenson</sys_created_by>
+        <sys_created_on>2022-04-16 20:33:51</sys_created_on>
+        <sys_id>855dcddb2f3a0110bd54d5f62799b6fb</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>MJML</sys_name>
+        <sys_name>Template Variables</sys_name>
         <sys_package display_value="MJML" source="x_298439_mjml">2eb6ab4f2f62c1100ed2ff1df699b610</sys_package>
         <sys_policy/>
         <sys_scope display_value="MJML">2eb6ab4f2f62c1100ed2ff1df699b610</sys_scope>
-        <sys_update_name>sys_dictionary_x_298439_mjml_templates_mjml</sys_update_name>
+        <sys_update_name>sys_dictionary_x_298439_mjml_templates_template_variables</sys_update_name>
         <sys_updated_by>jacebenson</sys_updated_by>
-        <sys_updated_on>2022-04-16 21:56:03</sys_updated_on>
+        <sys_updated_on>2022-04-16 20:33:51</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
