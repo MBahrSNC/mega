@@ -3,7 +3,7 @@
         <element display="true" label="Email Notification" mandatory="true" max_length="32" name="email_notification" reference="sysevent_email_action" type="reference"/>
         <element attributes="edge_encryption_enabled=true" label="HTML" max_length="100000" name="html" type="html_template"/>
         <element attributes="edge_encryption_enabled=true" label="MJML" max_length="100000" name="mjml" type="html_template"/>
-        <element label="Template Variables" max_length="4000" name="template_variables" type="script_plain"/>
+        <element default="(function(){&#13;&#10;&#9;return {&#13;&#10;&#9;&#9;// hostname: gs.getProperty('instance_name'),&#13;&#10;&#9;&#9;// brand: &quot;Awesome Brand&quot;&#13;&#10;&#9;&#9;// put other things here that you will call in the mjml field and assign the scripted or static value.&#13;&#10;&#9;&#9;// then in the mjml field use {{mjml.brand}} or {{mjml.yourVariableHere}}&#13;&#10;&#9;&#9;// if you want to use something from the current record that generated the email use &#13;&#10;&#9;&#9;// {{current.field}} or {{event.parm1}}&#13;&#10;&#9;}&#13;&#10;})(current)" label="Template Variables" max_length="4000" name="template_variables" type="script_plain"/>
         <index name="index">
             <element name="email_notification"/>
         </index>
