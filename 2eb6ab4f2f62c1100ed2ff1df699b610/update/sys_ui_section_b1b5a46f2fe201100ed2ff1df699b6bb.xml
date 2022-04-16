@@ -3,42 +3,56 @@
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>email_notification</element>
             <position>0</position>
-            <sys_created_by>mike.bahr</sys_created_by>
-            <sys_created_on>2022-04-05 02:03:33</sys_created_on>
-            <sys_id>f5b5286f2fe201100ed2ff1df699b637</sys_id>
+            <sys_created_by>jacebenson</sys_created_by>
+            <sys_created_on>2022-04-16 20:33:51</sys_created_on>
+            <sys_id>115d011f2f3a0110bd54d5f62799b61f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_298439_mjml_templates" sys_domain="global" view="Default view">b1b5a46f2fe201100ed2ff1df699b6bb</sys_ui_section>
-            <sys_updated_by>mike.bahr</sys_updated_by>
-            <sys_updated_on>2022-04-05 02:03:33</sys_updated_on>
+            <sys_updated_by>jacebenson</sys_updated_by>
+            <sys_updated_on>2022-04-16 20:33:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>template_variables</element>
+            <position>1</position>
+            <sys_created_by>jacebenson</sys_created_by>
+            <sys_created_on>2022-04-16 20:33:51</sys_created_on>
+            <sys_id>d55d011f2f3a0110bd54d5f62799b61f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_298439_mjml_templates" sys_domain="global" view="Default view">b1b5a46f2fe201100ed2ff1df699b6bb</sys_ui_section>
+            <sys_updated_by>jacebenson</sys_updated_by>
+            <sys_updated_on>2022-04-16 20:33:51</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>mjml</element>
-            <position>1</position>
-            <sys_created_by>mike.bahr</sys_created_by>
-            <sys_created_on>2022-04-05 02:03:33</sys_created_on>
-            <sys_id>fdb5286f2fe201100ed2ff1df699b637</sys_id>
+            <position>2</position>
+            <sys_created_by>jacebenson</sys_created_by>
+            <sys_created_on>2022-04-16 20:33:51</sys_created_on>
+            <sys_id>595d011f2f3a0110bd54d5f62799b61f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_298439_mjml_templates" sys_domain="global" view="Default view">b1b5a46f2fe201100ed2ff1df699b6bb</sys_ui_section>
-            <sys_updated_by>mike.bahr</sys_updated_by>
-            <sys_updated_on>2022-04-05 02:03:33</sys_updated_on>
+            <sys_updated_by>jacebenson</sys_updated_by>
+            <sys_updated_on>2022-04-16 20:33:51</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>html</element>
-            <position>2</position>
-            <sys_created_by>mike.bahr</sys_created_by>
-            <sys_created_on>2022-04-07 15:05:03</sys_created_on>
-            <sys_id>b4cbe9942f7201100ed2ff1df699b632</sys_id>
+            <position>3</position>
+            <sys_created_by>jacebenson</sys_created_by>
+            <sys_created_on>2022-04-16 20:33:51</sys_created_on>
+            <sys_id>d95d011f2f3a0110bd54d5f62799b61f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_298439_mjml_templates" sys_domain="global" view="Default view">b1b5a46f2fe201100ed2ff1df699b6bb</sys_ui_section>
-            <sys_updated_by>mike.bahr</sys_updated_by>
-            <sys_updated_on>2022-04-07 15:05:03</sys_updated_on>
+            <sys_updated_by>jacebenson</sys_updated_by>
+            <sys_updated_on>2022-04-16 20:33:51</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

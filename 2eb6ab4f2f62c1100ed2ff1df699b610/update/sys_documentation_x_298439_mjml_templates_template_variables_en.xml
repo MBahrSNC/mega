@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="template_variables" label="Template Variables" language="en" table="x_298439_mjml_templates">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>template_variables</element>
+            <help/>
+            <hint/>
+            <label>Template Variables</label>
+            <language>en</language>
+            <name>x_298439_mjml_templates</name>
+            <plural>Template Variables</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>jacebenson</sys_created_by>
+            <sys_created_on>2022-04-16 20:33:51</sys_created_on>
+            <sys_id>4d5dcddb2f3a0110bd54d5f62799b6fe</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Template Variables</sys_name>
+            <sys_package display_value="MJML" source="x_298439_mjml">2eb6ab4f2f62c1100ed2ff1df699b610</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="MJML">2eb6ab4f2f62c1100ed2ff1df699b610</sys_scope>
+            <sys_update_name>sys_documentation_x_298439_mjml_templates_template_variables_en</sys_update_name>
+            <sys_updated_by>jacebenson</sys_updated_by>
+            <sys_updated_on>2022-04-16 20:33:51</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
