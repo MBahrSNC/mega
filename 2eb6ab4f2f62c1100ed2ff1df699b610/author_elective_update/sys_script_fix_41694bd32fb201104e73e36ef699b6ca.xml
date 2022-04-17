@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_fix">
+    <sys_script_fix action="DELETE">
+        <before>false</before>
+        <description/>
+        <name>force-set-mjml-test-template</name>
+        <record_for_rollback>true</record_for_rollback>
+        <script><![CDATA[//x_298439_mjml_templates.do?sys_id=a618a86f2fe201100ed2ff1df699b661
+var current = new GlideRecord('x_298439_mjml_templates');
+current.get('a618a86f2fe201100ed2ff1df699b661');
+(function executeRule(current, previous /*null when async*/ ) {
+
+    // Add your code here
+    var apiKey = gs.getProperty('x_298439_mjml.api.key').split(':');
+    var un = apiKey[0].toString();
+    var pw = apiKey[1].toString();
+    var obj = {};
+    obj.mjml = current.mjml.trim();
+
+    var endpoint = 'https://api.mjml.io/v1/render';
+    var request = new sn_ws.RESTMessageV2();
+    request.setHttpMethod('post');
+    request.setBasicAuth(un, pw);
+    request.setEndpoint(endpoint);
+    request.setRequestHeader('Content-Type', 'application/json');
+    request.setRequestBody(JSON.stringify(obj));
+    var response = request.execute();
+	var evaluator = new GlideScopedEvaluator();
+  var output = evaluator.evaluateScript(current, "template_variables", null);
+  var returnedHTML = JSON.parse(response.getBody()).html
+
+  for(var prop in output){
+    var replaceString = '{{mjml.' + prop + '}}';
+		var regex =  new RegExp(replaceString,'g'); // correct way
+		returnedHTML = returnedHTML.replace(regex,output[prop]); // it works
+  }
+  returnedHTML = returnedHTML.replaceAll('{{', '${');
+  returnedHTML = returnedHTML.replaceAll('}}', '}');
+    current.setValue('html',returnedHTML);
+    current.update();
+
+})(current, previous);]]></script>
+        <sys_class_name>sys_script_fix</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-17 05:42:22</sys_created_on>
+        <sys_id>41694bd32fb201104e73e36ef699b6ca</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>force-set-mjml-test-template</sys_name>
+        <sys_package display_value="MJML" source="x_298439_mjml">2eb6ab4f2f62c1100ed2ff1df699b610</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MJML">2eb6ab4f2f62c1100ed2ff1df699b610</sys_scope>
+        <sys_update_name>sys_script_fix_41694bd32fb201104e73e36ef699b6ca</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-17 05:53:35</sys_updated_on>
+        <unloadable>false</unloadable>
+    </sys_script_fix>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="MJML">2eb6ab4f2f62c1100ed2ff1df699b610</application>
+        <file_path/>
+        <instance_id>002af526dbb07b4452dd2f17d496195b</instance_id>
+        <instance_name>dev81480</instance_name>
+        <name>sys_script_fix_41694bd32fb201104e73e36ef699b6ca</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_script_fix"&gt;&lt;sys_script_fix action="INSERT_OR_UPDATE"&gt;&lt;before&gt;false&lt;/before&gt;&lt;description/&gt;&lt;name&gt;force-set-mjml-test-template&lt;/name&gt;&lt;record_for_rollback&gt;true&lt;/record_for_rollback&gt;&lt;script&gt;&lt;![CDATA[//x_298439_mjml_templates.do?sys_id=a618a86f2fe201100ed2ff1df699b661
+var current = new GlideRecord('x_298439_mjml_templates');
+current.get('a618a86f2fe201100ed2ff1df699b661');
+(function executeRule(current, previous /*null when async*/ ) {
+
+    // Add your code here
+    var apiKey = gs.getProperty('x_298439_mjml.api.key').split(':');
+    var un = apiKey[0].toString();
+    var pw = apiKey[1].toString();
+    var obj = {};
+    obj.mjml = current.mjml.trim();
+
+    var endpoint = 'https://api.mjml.io/v1/render';
+    var request = new sn_ws.RESTMessageV2();
+    request.setHttpMethod('post');
+    request.setBasicAuth(un, pw);
+    request.setEndpoint(endpoint);
+    request.setRequestHeader('Content-Type', 'application/json');
+    request.setRequestBody(JSON.stringify(obj));
+    var response = request.execute();
+	var evaluator = new GlideScopedEvaluator();
+  var output = evaluator.evaluateScript(current, "template_variables", null);
+  var returnedHTML = JSON.parse(response.getBody()).html
+
+  for(var prop in output){
+    var replaceString = '{{mjml.' + prop + '}}';
+		var regex =  new RegExp(replaceString,'g'); // correct way
+		returnedHTML = returnedHTML.replace(regex,output[prop]); // it works
+  }
+  returnedHTML = returnedHTML.replaceAll('{{', '${');
+  returnedHTML = returnedHTML.replaceAll('}}', '}');
+    current.setValue('html',returnedHTML);
+    current.update();
+
+})(current, previous);]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_fix&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2022-04-17 05:42:22&lt;/sys_created_on&gt;&lt;sys_id&gt;41694bd32fb201104e73e36ef699b6ca&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_name&gt;force-set-mjml-test-template&lt;/sys_name&gt;&lt;sys_package display_value="MJML" source="x_298439_mjml"&gt;2eb6ab4f2f62c1100ed2ff1df699b610&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="MJML"&gt;2eb6ab4f2f62c1100ed2ff1df699b610&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_fix_41694bd32fb201104e73e36ef699b6ca&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2022-04-17 05:53:35&lt;/sys_updated_on&gt;&lt;unloadable&gt;false&lt;/unloadable&gt;&lt;/sys_script_fix&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-593501155</payload_hash>
+        <record_name>force-set-mjml-test-template</record_name>
+        <reverted_from/>
+        <source>d19707132fb201104e73e36ef699b664</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-17 05:53:35</sys_created_on>
+        <sys_id>547d43d72fb201104e73e36ef699b65c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18036156b680000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-17 05:53:35</sys_updated_on>
+        <type>Fix Script</type>
+        <update_guid>1c7d43d7d6b20110281e1e103af0f35b</update_guid>
+        <update_guid_history>1c7d43d7d6b20110281e1e103af0f35b:-593501155,48ea071751b2011088dd06dc04723939:1511443389</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-17 06:43:32</sys_created_on>
+        <sys_db_object display_value="" name="sys_script_fix">sys_script_fix</sys_db_object>
+        <sys_id>33dc110ebfb54b768ce632f8502f5124</sys_id>
+        <sys_metadata>41694bd32fb201104e73e36ef699b6ca</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>force-set-mjml-test-template</sys_name>
+        <sys_package display_value="MJML" source="x_298439_mjml">2eb6ab4f2f62c1100ed2ff1df699b610</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="MJML">2eb6ab4f2f62c1100ed2ff1df699b610</sys_scope>
+        <sys_scope_delete display_value="">147ba54de0824e60929d8e416c836400</sys_scope_delete>
+        <sys_update_name>sys_script_fix_41694bd32fb201104e73e36ef699b6ca</sys_update_name>
+        <sys_update_version display_value="sys_script_fix_41694bd32fb201104e73e36ef699b6ca">547d43d72fb201104e73e36ef699b65c</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-17 06:43:32</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
