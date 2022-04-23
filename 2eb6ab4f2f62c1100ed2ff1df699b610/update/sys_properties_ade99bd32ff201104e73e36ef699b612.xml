@@ -2,11 +2,16 @@
     <sys_properties action="INSERT_OR_UPDATE">
         <choices/>
         <description>This is the API endpoint to ask for the MJML transpiled code.&#13;
-If you leave this as is, you will need to change the following two properties in global scope.&#13;
+&#13;
+The "Official" API has SSL issues.  https://api.mjml.io/v1/render&#13;
+If you use that one, you will need to change the following two properties in global scope.&#13;
 com.glide.communications.trustmanager_trust_all to true&#13;
 com.glide.communications.httpclient.verify_hostname to false&#13;
 &#13;
-This is because the public api has ssl issues.</description>
+You can make your own here (https://mjml-netlify.netlify.app/) or use the one https://mjml-netlify.netlify.app/.netlify/functions/mjml.&#13;
+&#13;
+If we get to 100k calls a month We'll start enforcing authentication.&#13;
+</description>
         <ignore_cache>true</ignore_cache>
         <is_private>false</is_private>
         <name>x_298439_mjml.api.endpoint</name>
@@ -16,16 +21,16 @@ This is because the public api has ssl issues.</description>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-04-17 06:55:47</sys_created_on>
         <sys_id>ade99bd32ff201104e73e36ef699b612</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>x_298439_mjml.api.endpoint</sys_name>
         <sys_package display_value="MJML" source="x_298439_mjml">2eb6ab4f2f62c1100ed2ff1df699b610</sys_package>
         <sys_policy/>
         <sys_scope display_value="MJML">2eb6ab4f2f62c1100ed2ff1df699b610</sys_scope>
         <sys_update_name>sys_properties_ade99bd32ff201104e73e36ef699b612</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-04-17 06:56:03</sys_updated_on>
+        <sys_updated_by>jacebenson</sys_updated_by>
+        <sys_updated_on>2022-04-17 21:03:14</sys_updated_on>
         <type>string</type>
-        <value>https://api.mjml.io/v1/render</value>
+        <value>https://mjml-netlify.netlify.app/.netlify/functions/mjml</value>
         <write_roles/>
     </sys_properties>
     <sys_translated_text action="delete_multiple" query="documentkey=ade99bd32ff201104e73e36ef699b612"/>

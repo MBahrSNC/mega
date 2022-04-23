@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <active>true</active>
+        <api_name>x_298439_mjml.util</api_name>
+        <caller_access>1</caller_access>
+        <client_callable>true</client_callable>
+        <description/>
+        <name>util</name>
+        <script><![CDATA[var util = Class.create();
+util.prototype = Object.extendsObject(global.AbstractAjaxProcessor, {
+	endpoint: gs.getProperty('x_298439_mjml.api.endpoint'),
+	apiKey: gs.getProperty('x_298439_mjml.api.key'),
+	username: (function(){
+		if(this.apiKey && this.apiKey.indexOf(':')>0){
+			return this.apiKey.split(':')[0];
+		}
+		return false;
+	})(),
+	password: (function(){
+		if(this.apiKey && this.apiKey.indexOf(':')>0){
+			return this.apiKey.split(':')[1];
+		}
+		return false;
+	})(),
+	demo: function(){
+		return JSON.stringify({"hoo":"raa"});
+	},
+    transpile: function() {
+        var inputObj = JSON.parse(this.getParameter('sysparm_obj'));
+		var html = this.getutil(inputObj.mjml, inputObj.sys_id);
+        var returnObj = {
+            from: "server",
+            input: inputObj,
+			html: html
+        };
+        return JSON.stringify(returnObj);
+    },
+    getutil: function(mjml, currentSysId) {
+		var current = new GlideRecord('x_298439_mjml_templates');
+		current.get(currentSysId);
+        var isutilAPIinUse = this.endpoint == 'https://api.mjml.io/v1/render';
+        if (isutilAPIinUse && this.apiKey == '') {
+            gs.error('x_298439_mjml.api.key is empty');
+            return;
+        }
+        var obj = {};
+        obj.mjml = mjml;
+        var request = new sn_ws.RESTMessageV2();
+        request.setHttpMethod('post');
+        if (this.username && this.password) {
+            request.setBasicAuth(username, password);
+        }
+        request.setEndpoint(this.endpoint);
+        request.setRequestHeader('Content-Type', 'application/json');
+        request.setRequestBody(JSON.stringify(obj));
+        var response = request.execute();
+        var evaluator = new GlideScopedEvaluator();
+        var output = evaluator.evaluateScript(current, "template_variables", null);
+        try {
+            var returnedHTML = JSON.parse(response.getBody()).html;
+            for (var prop in output) {
+                var replaceString = '{{mjml.' + prop + '}}';
+                var regex = new RegExp(replaceString, 'g');
+                returnedHTML = returnedHTML.replace(regex, output[prop]);
+            }
+			return returnedHTML;
+        } catch (error) {
+			var errorMessage = 'Error with response for util: ' + error;
+            gs.error(errorMessage);
+			return errorMessage
+        }
+    },
+    type: 'util'
+});]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>jacebenson</sys_created_by>
+        <sys_created_on>2022-04-17 21:16:49</sys_created_on>
+        <sys_id>0e2edee32fb2c110bd54d5f62799b6f7</sys_id>
+        <sys_mod_count>9</sys_mod_count>
+        <sys_name>util</sys_name>
+        <sys_package display_value="MJML" source="x_298439_mjml">2eb6ab4f2f62c1100ed2ff1df699b610</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="MJML">2eb6ab4f2f62c1100ed2ff1df699b610</sys_scope>
+        <sys_update_name>sys_script_include_0e2edee32fb2c110bd54d5f62799b6f7</sys_update_name>
+        <sys_updated_by>jacebenson</sys_updated_by>
+        <sys_updated_on>2022-04-17 21:38:28</sys_updated_on>
+    </sys_script_include>
+</record_update>
