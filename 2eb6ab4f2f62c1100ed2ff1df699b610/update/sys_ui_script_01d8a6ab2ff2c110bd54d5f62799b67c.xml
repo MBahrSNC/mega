@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_script">
+    <sys_ui_script action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description/>
+        <global>false</global>
+        <ignore_in_now_experience>false</ignore_in_now_experience>
+        <name>x_298439_mjml.ui</name>
+        <script><![CDATA[var x_298439_ui = x_298439_ui || {};
+
+x_298439_ui.ui = (function() {
+    "use strict";
+
+    // set your private variables and functions here. For example: 
+    var privateVar = 0;
+
+    function private_function() {
+        return ++privateVar;
+    }
+
+
+    /* Share variables between multiple UI scripts by adding them to your scope object. For example: 
+    	x_298439_ui.sharedVar = 0; 
+
+     Then access them in your scripts the same way. For example: 
+    	function get_shared() {
+    		return x_298439_ui.sharedVar;
+    	}
+    */
+    function _setHTML(html) {
+        document.getElementById("mjmlRender").setAttribute('srcdoc', html);
+    }
+	function _setRenderSize(height, width){
+		document.getElementById("mjmlRender").setAttribute('width', width );
+		document.getElementById("mjmlRender").setAttribute('height', height );
+	}
+	function _rotate(){
+		var width = document.getElementById("mjmlRender").getAttribute('width');
+		var height = document.getElementById("mjmlRender").getAttribute('height');
+		document.getElementById("mjmlRender").setAttribute('width', height );
+		document.getElementById("mjmlRender").setAttribute('height', width );
+	}
+    return {
+
+        // set your public API here. For example:
+        		incrementAndReturnPrivateVar: function() {
+        			return private_function();
+        		},
+        
+        setHTML: function(html){
+        	_setHTML(html);
+        },
+		setSize: function(height, width){
+			_setRenderSize(height, width);
+		},
+		rotate: function(){
+			_rotate();
+		},
+        type: "ui"
+    };
+})();]]></script>
+        <script_name>ui</script_name>
+        <sys_class_name>sys_ui_script</sys_class_name>
+        <sys_created_by>jacebenson</sys_created_by>
+        <sys_created_on>2022-04-17 23:25:06</sys_created_on>
+        <sys_id>01d8a6ab2ff2c110bd54d5f62799b67c</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>x_298439_mjml.ui</sys_name>
+        <sys_package display_value="MJML" source="x_298439_mjml">2eb6ab4f2f62c1100ed2ff1df699b610</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MJML">2eb6ab4f2f62c1100ed2ff1df699b610</sys_scope>
+        <sys_update_name>sys_ui_script_01d8a6ab2ff2c110bd54d5f62799b67c</sys_update_name>
+        <sys_updated_by>jacebenson</sys_updated_by>
+        <sys_updated_on>2022-04-18 01:03:04</sys_updated_on>
+        <ui_type>0</ui_type>
+        <use_scoped_format>false</use_scoped_format>
+    </sys_ui_script>
+</record_update>

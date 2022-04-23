@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_macro">
+    <sys_ui_macro action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category>general</category>
+        <description/>
+        <media_type/>
+        <name>renderHtml</name>
+        <scoped_name>x_298439_mjml_renderHtml</scoped_name>
+        <sys_class_name>sys_ui_macro</sys_class_name>
+        <sys_created_by>jacebenson</sys_created_by>
+        <sys_created_on>2022-04-17 21:50:37</sys_created_on>
+        <sys_id>2858a66b2ff2c110bd54d5f62799b67e</sys_id>
+        <sys_mod_count>16</sys_mod_count>
+        <sys_name>renderHtml</sys_name>
+        <sys_package display_value="MJML" source="x_298439_mjml">2eb6ab4f2f62c1100ed2ff1df699b610</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MJML">2eb6ab4f2f62c1100ed2ff1df699b610</sys_scope>
+        <sys_update_name>sys_ui_macro_2858a66b2ff2c110bd54d5f62799b67e</sys_update_name>
+        <sys_updated_by>jacebenson</sys_updated_by>
+        <sys_updated_on>2022-04-18 01:03:28</sys_updated_on>
+        <xml><![CDATA[<?xml version="1.0" encoding="utf-8" ?>
+<j:jelly trim="false" xmlns:j="jelly:core" xmlns:g="glide" xmlns:j2="null" xmlns:g2="null">
+	<g2:evaluate var="jvar_stamp">  
+		var gr = new GlideRecord('sys_ui_script');  
+		gr.orderByDesc('sys_updated_on');  
+		gr.query();  
+		gr.next();  
+		gr.getValue('sys_updated_on');  
+	</g2:evaluate>  
+	<g:requires name="x_298439_mjml.ui.jsdbx" params="cache=$[jvar_stamp]" /> 
+	<!--Look here<div id="mjmlRender"></div>-->
+	<div style="text-align: center;">
+		<div class="row">
+			<button type="button" onClick="x_298439_ui.ui.setSize('1920px','1080px')">1920×1080 (8.89%)</button>
+			<button type="button" onClick="x_298439_ui.ui.setSize('1366px','768px')">1366×768 (8.44%)</button>
+			<button type="button" onClick="x_298439_ui.ui.setSize('360px','640px')">360×640 (7.28%)</button>
+			<button type="button" onClick="x_298439_ui.ui.setSize('414px','896px')">414×896 (4.58%)</button>
+			<button type="button" onClick="x_298439_ui.ui.setSize('1536px','864px')">1536×864 (3.88%)</button>
+			<button type="button" onClick="x_298439_ui.ui.setSize('375px','667px')">375×667 (3.75%)</button>
+			<button type="button" onClick="x_298439_ui.ui.rotate()">Rotate</button>
+		</div>
+		<div >
+			<iframe height="640px" width="360px" style="
+						   resize: both;" id="mjmlRender" srcdoc=""></iframe>
+		</div>
+	</div>
+</j:jelly>]]></xml>
+    </sys_ui_macro>
+</record_update>
