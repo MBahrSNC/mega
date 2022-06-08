@@ -16,7 +16,7 @@ According to mjml.io
 
 This scoped application contains one table (MJML Templates), and one business rule.
 
-When you save a MJML Template, ServiceNow makes a REST call to api.mjml.io with your email template and placeholders for your variables.
+When you save a MJML Template, ServiceNow makes a REST call to https://mjml-netlify.netlify.app/.netlify/functions/mjml with your email template and placeholders for your variables.  What do you mean we're sending it to a place?!  [Here's the code](https://github.com/jacebenson/netlify-mjml/blob/main/src/functions/mjml.js), you can fork this and run your own lambda to do it.  
 
 What is placeholder?  A placeholder is a bit of text surrounded by two curly brackets `{{mjml.test}}`
 
@@ -51,11 +51,20 @@ You first need to [fork this repo](https://github.com/MBahrSNC/mega/fork).
 
 Then install that forked repo on your instance.
 
-While that is installing (or after it's installed), go get the required [API key for MJML](https://mjml.io/api).
+Your all set unless you want to...
 
-After it's installed set the property `x_298439_mjml.api.key` value to applicationID:publicKey.  So if your applicationID was `checkers1` and your publicKey was `chess2` your value would be `checkers1:chess2`.  You do not need your secret key for this application.
-
-Now you're ready to go.
+<details>
+  <summary>Own your lambda</summary>
+    Then you'll need to fork or recreate https://github.com/jacebenson/netlify-mjml/ and host it on aws, netlify, vercel etc.
+  </details>
+<details>
+  <summary>Use the officail mjml.io API</summary>
+  <ol>
+    <li>Go get the required [API key for MJML](https://mjml.io/api)</li>
+    <li>After it's installed set the property `x_298439_mjml.api.key` value to applicationID:publicKey.  So if your applicationID was `checkers1` and your publicKey was `chess2` your value would be `checkers1:chess2`.  You do not need your secret key for this application.</li>
+    <li>Lookup how to allow either a bad cert, as this api had that problem.</li>
+  </ol>
+</details>
 
 ## Using MJML Templates
 
