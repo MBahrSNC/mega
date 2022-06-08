@@ -28,44 +28,44 @@
         <rest_variables/>
         <role_conditions/>
         <script><![CDATA[(function executeRule(current, previous /*null when async*/ ) {
-	var isMJMLAPIinUse = gs.getProperty('x_298439_mjml.api.endpoint') == 'https://api.mjml.io/v1/render';
-	var apiKey = gs.getProperty('x_298439_mjml.api.key')
-	var username = '';
-	var password = '';
-	if(isMJMLAPIinUse && apiKey == ''){
-		gs.error('x_298439_mjml.api.key is empty');
-		return;
-	}
-	if(apiKey.indexOf(':') > 0){
-		username = apiKey.split(':')[0].toString()
-		password = apiKey.split(':')[1].toString()
-	}
+    var isMJMLAPIinUse = gs.getProperty('x_298439_mjml.api.endpoint') == 'https://api.mjml.io/v1/render';
+    var apiKey = gs.getProperty('x_298439_mjml.api.key');
+    var username = '';
+    var password = '';
+    if (isMJMLAPIinUse && apiKey == '') {
+        gs.error('x_298439_mjml.api.key is empty');
+        return;
+    }
+    if (apiKey.indexOf(':') > 0) {
+        username = apiKey.split(':')[0].toString();
+        password = apiKey.split(':')[1].toString();
+    }
     var obj = {};
     obj.mjml = current.mjml.trim();
     var endpoint = gs.getProperty('x_298439_mjml.api.endpoint');
     var request = new sn_ws.RESTMessageV2();
     request.setHttpMethod('post');
-	if(username && password){
-		request.setBasicAuth(username, password);
-	}
+    if (username && password) {
+        request.setBasicAuth(username, password);
+    }
     request.setEndpoint(endpoint);
     request.setRequestHeader('Content-Type', 'application/json');
     request.setRequestBody(JSON.stringify(obj));
     var response = request.execute();
     var evaluator = new GlideScopedEvaluator();
     var output = evaluator.evaluateScript(current, "template_variables", null);
-    try{
-	var returnedHTML = JSON.parse(response.getBody()).html;
-    for (var prop in output) {
-        var replaceString = '{{mjml.' + prop + '}}';
-        var regex = new RegExp(replaceString, 'g');
-        returnedHTML = returnedHTML.replace(regex, output[prop]);
+    try {
+        var returnedHTML = JSON.parse(response.getBody()).html;
+        for (var prop in output) {
+            var replaceString = '{{mjml.' + prop + '}}';
+            var regex = new RegExp(replaceString, 'g');
+            returnedHTML = returnedHTML.replace(regex, output[prop]);
+        }
+        current.setValue('html', returnedHTML);
+        current.update();
+    } catch (error) {
+        gs.error('Error with response for MJML: ' + error);
     }
-    current.setValue('html', returnedHTML);
-    current.update();
-	} catch(error){
-		gs.error('Error with response for MJML: ' + error);
-	}
 })(current, previous);]]></script>
         <sys_class_name>sys_script</sys_class_name>
         <sys_created_by>mike.bahr</sys_created_by>
@@ -73,15 +73,15 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>6956a0af2fe201100ed2ff1df699b64f</sys_id>
-        <sys_mod_count>41</sys_mod_count>
+        <sys_mod_count>42</sys_mod_count>
         <sys_name>Convert MJML to HTML</sys_name>
         <sys_overrides/>
         <sys_package display_value="MJML" source="x_298439_mjml">2eb6ab4f2f62c1100ed2ff1df699b610</sys_package>
         <sys_policy/>
         <sys_scope display_value="MJML">2eb6ab4f2f62c1100ed2ff1df699b610</sys_scope>
         <sys_update_name>sys_script_6956a0af2fe201100ed2ff1df699b64f</sys_update_name>
-        <sys_updated_by>jacebenson</sys_updated_by>
-        <sys_updated_on>2022-04-17 21:01:28</sys_updated_on>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-08 04:31:00</sys_updated_on>
         <template/>
         <when>async_always</when>
     </sys_script>

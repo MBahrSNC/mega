@@ -1,0 +1,1157 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>e766a6cc2f041110bd54d5f62799b62b</documentkey>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="x_298439_mjml_templates"&gt;
+    &lt;x_298439_mjml_templates action="INSERT_OR_UPDATE"&gt;
+        &lt;email_notification display_value="MJML Test Notification - Space is openin"&gt;4a5626c02f441110bd54d5f62799b647&lt;/email_notification&gt;
+        &lt;html&gt;&amp;lt;!doctype html&amp;gt;
+&amp;lt;html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office"&amp;gt;
+  &amp;lt;head&amp;gt;
+    &amp;lt;title&amp;gt;
+      Discount Light
+    &amp;lt;/title&amp;gt;
+    &amp;lt;!--[if !mso]&amp;gt;&amp;lt;!--&amp;gt;
+    &amp;lt;meta http-equiv="X-UA-Compatible" content="IE=edge"&amp;gt;
+    &amp;lt;!--&amp;lt;![endif]--&amp;gt;
+    &amp;lt;meta http-equiv="Content-Type" content="text/html; charset=UTF-8"&amp;gt;
+    &amp;lt;meta name="viewport" content="width=device-width, initial-scale=1"&amp;gt;
+    &amp;lt;style type="text/css"&amp;gt;
+      #outlook a { padding:0; }
+      body { margin:0;padding:0;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%; }
+      table, td { border-collapse:collapse;mso-table-lspace:0pt;mso-table-rspace:0pt; }
+      img { border:0;height:auto;line-height:100%; outline:none;text-decoration:none;-ms-interpolation-mode:bicubic; }
+      p { display:block;margin:13px 0; }
+    &amp;lt;/style&amp;gt;
+    &amp;lt;!--[if mso]&amp;gt;
+    &amp;lt;noscript&amp;gt;
+    &amp;lt;xml&amp;gt;
+    &amp;lt;o:OfficeDocumentSettings&amp;gt;
+      &amp;lt;o:AllowPNG/&amp;gt;
+      &amp;lt;o:PixelsPerInch&amp;gt;96&amp;lt;/o:PixelsPerInch&amp;gt;
+    &amp;lt;/o:OfficeDocumentSettings&amp;gt;
+    &amp;lt;/xml&amp;gt;
+    &amp;lt;/noscript&amp;gt;
+    &amp;lt;![endif]--&amp;gt;
+    &amp;lt;!--[if lte mso 11]&amp;gt;
+    &amp;lt;style type="text/css"&amp;gt;
+      .mj-outlook-group-fix { width:100% !important; }
+    &amp;lt;/style&amp;gt;
+    &amp;lt;![endif]--&amp;gt;
+    
+    
+    &amp;lt;style type="text/css"&amp;gt;
+      @media only screen and (min-width:480px) {
+        .mj-column-per-100 { width:100% !important; max-width: 100%; }
+.mj-column-per-50 { width:50% !important; max-width: 50%; }
+      }
+    &amp;lt;/style&amp;gt;
+    &amp;lt;style media="screen and (min-width:480px)"&amp;gt;
+      .moz-text-html .mj-column-per-100 { width:100% !important; max-width: 100%; }
+.moz-text-html .mj-column-per-50 { width:50% !important; max-width: 50%; }
+    &amp;lt;/style&amp;gt;
+    
+  
+    &amp;lt;style type="text/css"&amp;gt;
+    
+    
+
+    @media only screen and (max-width:480px) {
+      table.mj-full-width-mobile { width: 100% !important; }
+      td.mj-full-width-mobile { width: auto !important; }
+    }
+  
+    &amp;lt;/style&amp;gt;
+    &amp;lt;style type="text/css"&amp;gt;
+    
+    &amp;lt;/style&amp;gt;
+    
+  &amp;lt;/head&amp;gt;
+  &amp;lt;body style="word-spacing:normal;background-color:#E7E7E7;"&amp;gt;
+    
+    &amp;lt;div style="display:none;font-size:1px;color:#ffffff;line-height:1px;max-height:0px;max-width:0px;opacity:0;overflow:hidden;"&amp;gt;
+      Pre-header Text
+    &amp;lt;/div&amp;gt;
+  
+    
+      &amp;lt;div style="background-color:#E7E7E7;"&amp;gt;
+        
+      &amp;lt;table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background:#040B4F;background-color:#040B4F;width:100%;"&amp;gt;
+        &amp;lt;tbody&amp;gt;
+          &amp;lt;tr&amp;gt;
+            &amp;lt;td&amp;gt;
+              
+        
+      &amp;lt;!--[if mso | IE]&amp;gt;&amp;lt;table align="center" border="0" cellpadding="0" cellspacing="0" class="" role="presentation" style="width:600px;" width="600" bgcolor="#040B4F" &amp;gt;&amp;lt;tr&amp;gt;&amp;lt;td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"&amp;gt;&amp;lt;![endif]--&amp;gt;
+    
+        
+      &amp;lt;div style="margin:0px auto;max-width:600px;"&amp;gt;
+        
+        &amp;lt;table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;"&amp;gt;
+          &amp;lt;tbody&amp;gt;
+            &amp;lt;tr&amp;gt;
+              &amp;lt;td style="direction:ltr;font-size:0px;padding:20px 0;padding-bottom:0;text-align:center;"&amp;gt;
+                &amp;lt;!--[if mso | IE]&amp;gt;&amp;lt;table role="presentation" border="0" cellpadding="0" cellspacing="0"&amp;gt;&amp;lt;tr&amp;gt;&amp;lt;td class="" style="vertical-align:top;width:600px;" &amp;gt;&amp;lt;![endif]--&amp;gt;
+            
+      &amp;lt;div class="mj-column-per-100 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;"&amp;gt;
+        
+      &amp;lt;table border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:top;" width="100%"&amp;gt;
+        &amp;lt;tbody&amp;gt;
+          
+              &amp;lt;tr&amp;gt;
+                &amp;lt;td align="center" style="font-size:0px;padding:10px 25px;word-break:break-word;"&amp;gt;
+                  
+      &amp;lt;table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse:collapse;border-spacing:0px;"&amp;gt;
+        &amp;lt;tbody&amp;gt;
+          &amp;lt;tr&amp;gt;
+            &amp;lt;td style="width:150px;"&amp;gt;
+              
+      &amp;lt;img alt height="auto" src="https://res.cloudinary.com/dheck1ubc/image/upload/v1544153577/Email/Images/AnnouncementOffset/crofts-white.png" style="border:0;display:block;outline:none;text-decoration:none;height:auto;width:100%;font-size:13px;" width="150"&amp;gt;
+    
+            &amp;lt;/td&amp;gt;
+          &amp;lt;/tr&amp;gt;
+        &amp;lt;/tbody&amp;gt;
+      &amp;lt;/table&amp;gt;
+    
+                &amp;lt;/td&amp;gt;
+              &amp;lt;/tr&amp;gt;
+            
+              &amp;lt;tr&amp;gt;
+                &amp;lt;td align="center" style="font-size:0px;padding:10px 25px;padding-top:30px;word-break:break-word;"&amp;gt;
+                  
+      &amp;lt;div style="font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:16px;font-weight:bold;letter-spacing:1px;line-height:24px;text-align:center;text-transform:uppercase;color:#ffffff;"&amp;gt;Minneapolis, MN&amp;#13;
+          &amp;lt;br&amp;gt;&amp;#13;
+          &amp;lt;span style="color: #979797; font-weight: normal"&amp;gt;-&amp;lt;/span&amp;gt;&amp;lt;/div&amp;gt;
+    
+                &amp;lt;/td&amp;gt;
+              &amp;lt;/tr&amp;gt;
+            
+              &amp;lt;tr&amp;gt;
+                &amp;lt;td align="center" style="font-size:0px;padding:10px 25px;padding-top:0;word-break:break-word;"&amp;gt;
+                  
+      &amp;lt;div style="font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:13px;font-weight:bold;letter-spacing:1px;line-height:20px;text-align:center;text-transform:uppercase;color:#17CBC4;"&amp;gt;Minneapolis Convention Center&amp;#13;
+          &amp;lt;br&amp;gt;&amp;#13;
+          123 Main Street, 78701&amp;lt;/div&amp;gt;
+    
+                &amp;lt;/td&amp;gt;
+              &amp;lt;/tr&amp;gt;
+            
+              &amp;lt;tr&amp;gt;
+                &amp;lt;td align="center" style="font-size:0px;padding:0;word-break:break-word;"&amp;gt;
+                  
+      &amp;lt;table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse:collapse;border-spacing:0px;"&amp;gt;
+        &amp;lt;tbody&amp;gt;
+          &amp;lt;tr&amp;gt;
+            &amp;lt;td style="width:600px;"&amp;gt;
+              
+        &amp;lt;a href="https://google.com" target="_blank"&amp;gt;
+          
+      &amp;lt;img alt height="auto" src="https://res.cloudinary.com/dheck1ubc/image/upload/v1544156968/Email/Images/AnnouncementOffset/header-top.png" style="border:0;display:block;outline:none;text-decoration:none;height:auto;width:100%;font-size:13px;" width="600"&amp;gt;
+    
+        &amp;lt;/a&amp;gt;
+      
+            &amp;lt;/td&amp;gt;
+          &amp;lt;/tr&amp;gt;
+        &amp;lt;/tbody&amp;gt;
+      &amp;lt;/table&amp;gt;
+    
+                &amp;lt;/td&amp;gt;
+              &amp;lt;/tr&amp;gt;
+            
+        &amp;lt;/tbody&amp;gt;
+      &amp;lt;/table&amp;gt;
+    
+      &amp;lt;/div&amp;gt;
+    
+          &amp;lt;!--[if mso | IE]&amp;gt;&amp;lt;/td&amp;gt;&amp;lt;/tr&amp;gt;&amp;lt;/table&amp;gt;&amp;lt;![endif]--&amp;gt;
+              &amp;lt;/td&amp;gt;
+            &amp;lt;/tr&amp;gt;
+          &amp;lt;/tbody&amp;gt;
+        &amp;lt;/table&amp;gt;
+        
+      &amp;lt;/div&amp;gt;
+    
+        
+      &amp;lt;!--[if mso | IE]&amp;gt;&amp;lt;/td&amp;gt;&amp;lt;/tr&amp;gt;&amp;lt;/table&amp;gt;&amp;lt;![endif]--&amp;gt;
+    
+      
+            &amp;lt;/td&amp;gt;
+          &amp;lt;/tr&amp;gt;
+        &amp;lt;/tbody&amp;gt;
+      &amp;lt;/table&amp;gt;
+    
+      
+      &amp;lt;!--[if mso | IE]&amp;gt;&amp;lt;table align="center" border="0" cellpadding="0" cellspacing="0" class="" role="presentation" style="width:600px;" width="600" bgcolor="#1f2e78" &amp;gt;&amp;lt;tr&amp;gt;&amp;lt;td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"&amp;gt;&amp;lt;![endif]--&amp;gt;
+    
+      
+      &amp;lt;div style="background:#1f2e78;background-color:#1f2e78;margin:0px auto;max-width:600px;"&amp;gt;
+        
+        &amp;lt;table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background:#1f2e78;background-color:#1f2e78;width:100%;"&amp;gt;
+          &amp;lt;tbody&amp;gt;
+            &amp;lt;tr&amp;gt;
+              &amp;lt;td style="direction:ltr;font-size:0px;padding:20px 0;text-align:center;"&amp;gt;
+                &amp;lt;!--[if mso | IE]&amp;gt;&amp;lt;table role="presentation" border="0" cellpadding="0" cellspacing="0"&amp;gt;&amp;lt;tr&amp;gt;&amp;lt;td class="" style="vertical-align:top;width:600px;" &amp;gt;&amp;lt;![endif]--&amp;gt;
+            
+      &amp;lt;div class="mj-column-per-100 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;"&amp;gt;
+        
+      &amp;lt;table border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:top;" width="100%"&amp;gt;
+        &amp;lt;tbody&amp;gt;
+          
+              &amp;lt;tr&amp;gt;
+                &amp;lt;td align="center" style="font-size:0px;padding:0;word-break:break-word;"&amp;gt;
+                  
+      &amp;lt;table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse:collapse;border-spacing:0px;"&amp;gt;
+        &amp;lt;tbody&amp;gt;
+          &amp;lt;tr&amp;gt;
+            &amp;lt;td style="width:600px;"&amp;gt;
+              
+        &amp;lt;a href="https://google.com" target="_blank"&amp;gt;
+          
+      &amp;lt;img alt height="auto" src="https://res.cloudinary.com/dheck1ubc/image/upload/v1544156968/Email/Images/AnnouncementOffset/header-bottom.png" style="border:0;display:block;outline:none;text-decoration:none;height:auto;width:100%;font-size:13px;" width="600"&amp;gt;
+    
+        &amp;lt;/a&amp;gt;
+      
+            &amp;lt;/td&amp;gt;
+          &amp;lt;/tr&amp;gt;
+        &amp;lt;/tbody&amp;gt;
+      &amp;lt;/table&amp;gt;
+    
+                &amp;lt;/td&amp;gt;
+              &amp;lt;/tr&amp;gt;
+            
+        &amp;lt;/tbody&amp;gt;
+      &amp;lt;/table&amp;gt;
+    
+      &amp;lt;/div&amp;gt;
+    
+          &amp;lt;!--[if mso | IE]&amp;gt;&amp;lt;/td&amp;gt;&amp;lt;/tr&amp;gt;&amp;lt;/table&amp;gt;&amp;lt;![endif]--&amp;gt;
+              &amp;lt;/td&amp;gt;
+            &amp;lt;/tr&amp;gt;
+          &amp;lt;/tbody&amp;gt;
+        &amp;lt;/table&amp;gt;
+        
+      &amp;lt;/div&amp;gt;
+    
+      
+      &amp;lt;!--[if mso | IE]&amp;gt;&amp;lt;/td&amp;gt;&amp;lt;/tr&amp;gt;&amp;lt;/table&amp;gt;&amp;lt;table align="center" border="0" cellpadding="0" cellspacing="0" class="body-section-outlook" role="presentation" style="width:600px;" width="600" &amp;gt;&amp;lt;tr&amp;gt;&amp;lt;td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"&amp;gt;&amp;lt;![endif]--&amp;gt;
+    
+      
+      &amp;lt;div class="body-section" style="-webkit-box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15); -moz-box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15); box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15); margin: 0px auto; max-width: 600px;"&amp;gt;
+        
+        &amp;lt;table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;"&amp;gt;
+          &amp;lt;tbody&amp;gt;
+            &amp;lt;tr&amp;gt;
+              &amp;lt;td style="direction:ltr;font-size:0px;padding:20px 0;padding-bottom:0;padding-top:0;text-align:center;"&amp;gt;
+                &amp;lt;!--[if mso | IE]&amp;gt;&amp;lt;table role="presentation" border="0" cellpadding="0" cellspacing="0"&amp;gt;&amp;lt;tr&amp;gt;&amp;lt;td class="" width="600px" &amp;gt;&amp;lt;table align="center" border="0" cellpadding="0" cellspacing="0" class="" role="presentation" style="width:600px;" width="600" bgcolor="#ffffff" &amp;gt;&amp;lt;tr&amp;gt;&amp;lt;td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"&amp;gt;&amp;lt;![endif]--&amp;gt;
+    
+      
+      &amp;lt;div style="background:#ffffff;background-color:#ffffff;margin:0px auto;max-width:600px;"&amp;gt;
+        
+        &amp;lt;table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background:#ffffff;background-color:#ffffff;width:100%;"&amp;gt;
+          &amp;lt;tbody&amp;gt;
+            &amp;lt;tr&amp;gt;
+              &amp;lt;td style="direction:ltr;font-size:0px;padding:20px 0;padding-left:15px;padding-right:15px;text-align:center;"&amp;gt;
+                &amp;lt;!--[if mso | IE]&amp;gt;&amp;lt;table role="presentation" border="0" cellpadding="0" cellspacing="0"&amp;gt;&amp;lt;tr&amp;gt;&amp;lt;td class="" style="vertical-align:top;width:570px;" &amp;gt;&amp;lt;![endif]--&amp;gt;
+            
+      &amp;lt;div class="mj-column-per-100 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;"&amp;gt;
+        
+      &amp;lt;table border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:top;" width="100%"&amp;gt;
+        &amp;lt;tbody&amp;gt;
+          
+              &amp;lt;tr&amp;gt;
+                &amp;lt;td align="left" style="font-size:0px;padding:10px 25px;word-break:break-word;"&amp;gt;
+                  
+      &amp;lt;div style="font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:20px;font-weight:bold;line-height:24px;text-align:left;color:#212b35;"&amp;gt;Croft's in Minneapolis is opening December 20th&amp;lt;/div&amp;gt;
+    
+                &amp;lt;/td&amp;gt;
+              &amp;lt;/tr&amp;gt;
+            
+              &amp;lt;tr&amp;gt;
+                &amp;lt;td align="left" style="font-size:0px;padding:10px 25px;word-break:break-word;"&amp;gt;
+                  
+      &amp;lt;div style="font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:16px;font-weight:400;line-height:24px;text-align:left;color:#637381;"&amp;gt;Hi ,&amp;lt;/div&amp;gt;
+    
+                &amp;lt;/td&amp;gt;
+              &amp;lt;/tr&amp;gt;
+            
+              &amp;lt;tr&amp;gt;
+                &amp;lt;td align="left" style="font-size:0px;padding:10px 25px;word-break:break-word;"&amp;gt;
+                  
+      &amp;lt;div style="font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:16px;font-weight:400;line-height:24px;text-align:left;color:#637381;"&amp;gt;Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quia a assumenda nulla in quisquam optio quibusdam fugiat perspiciatis nobis, ad tempora culpa porro labore. Repudiandae accusamus obcaecati voluptatibus accusantium perspiciatis.&amp;lt;/div&amp;gt;
+    
+                &amp;lt;/td&amp;gt;
+              &amp;lt;/tr&amp;gt;
+            
+              &amp;lt;tr&amp;gt;
+                &amp;lt;td align="left" style="font-size:0px;padding:10px 25px;word-break:break-word;"&amp;gt;
+                  
+      &amp;lt;div style="font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:16px;font-weight:400;line-height:24px;text-align:left;color:#637381;"&amp;gt;Tempora culpa porro labore. Repudiandae accusamus obcaecati voluptatibus accusantium perspiciatis:&amp;lt;/div&amp;gt;
+    
+                &amp;lt;/td&amp;gt;
+              &amp;lt;/tr&amp;gt;
+            
+              &amp;lt;tr&amp;gt;
+                &amp;lt;td align="left" style="font-size:0px;padding:10px 25px;word-break:break-word;"&amp;gt;
+                  
+      &amp;lt;div style="font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:16px;font-weight:400;line-height:24px;text-align:left;color:#637381;"&amp;gt;&amp;lt;ul&amp;gt;&amp;#13;
+              &amp;lt;li style="padding-bottom: 20px"&amp;gt;&amp;lt;strong&amp;gt;Lorem ipsum dolor:&amp;lt;/strong&amp;gt; Sit amet consectetur adipisicing elit.&amp;lt;/li&amp;gt;&amp;#13;
+              &amp;lt;li style="padding-bottom: 20px"&amp;gt;&amp;lt;strong&amp;gt;Quia a assumenda nulla:&amp;lt;/strong&amp;gt; Repudiandae accusamus obcaecati voluptatibus accusantium perspiciatis.&amp;lt;/li&amp;gt;&amp;#13;
+              &amp;lt;li&amp;gt;&amp;lt;strong&amp;gt;Tempora culpa porro labore:&amp;lt;/strong&amp;gt; In quisquam optio quibusdam fugiat perspiciatis nobis.&amp;lt;/li&amp;gt;&amp;#13;
+            &amp;lt;/ul&amp;gt;&amp;lt;/div&amp;gt;
+    
+                &amp;lt;/td&amp;gt;
+              &amp;lt;/tr&amp;gt;
+            
+              &amp;lt;tr&amp;gt;
+                &amp;lt;td align="left" style="font-size:0px;padding:10px 25px;padding-bottom:30px;word-break:break-word;"&amp;gt;
+                  
+      &amp;lt;div style="font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:16px;font-weight:400;line-height:24px;text-align:left;color:#637381;"&amp;gt;Lorem ipsum dolor &amp;lt;a class="text-link" href="https://google.com" style="color: #5e6ebf;"&amp;gt;sit amet consectetur&amp;lt;/a&amp;gt; adipisicing elit. Earum eaque sunt nulla in, id eveniet quae unde ad ipsam ut, harum autem porro reiciendis minus libero illo. Vero, fugiat reprehenderit.&amp;lt;/div&amp;gt;
+    
+                &amp;lt;/td&amp;gt;
+              &amp;lt;/tr&amp;gt;
+            
+              &amp;lt;tr&amp;gt;
+                &amp;lt;td align="center" vertical-align="middle" style="font-size:0px;padding:10px 25px;word-break:break-word;"&amp;gt;
+                  
+      &amp;lt;table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse:separate;width:300px;line-height:100%;"&amp;gt;
+        &amp;lt;tbody&amp;gt;
+          &amp;lt;tr&amp;gt;
+            &amp;lt;td align="center" bgcolor="#5e6ebf" role="presentation" style="border:none;border-radius:3px;cursor:auto;mso-padding-alt:10px 25px;background:#5e6ebf;" valign="middle"&amp;gt;
+              &amp;lt;a href="https://google.com" style="display:inline-block;width:250px;background:#5e6ebf;color:#ffffff;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:17px;font-weight:bold;line-height:120%;margin:0;text-decoration:none;text-transform:none;padding:10px 25px;mso-padding-alt:0px;border-radius:3px;" target="_blank"&amp;gt;
+                RSVP Today
+              &amp;lt;/a&amp;gt;
+            &amp;lt;/td&amp;gt;
+          &amp;lt;/tr&amp;gt;
+        &amp;lt;/tbody&amp;gt;
+      &amp;lt;/table&amp;gt;
+    
+                &amp;lt;/td&amp;gt;
+              &amp;lt;/tr&amp;gt;
+            
+              &amp;lt;tr&amp;gt;
+                &amp;lt;td align="center" vertical-align="middle" style="font-size:0px;padding:10px 25px;word-break:break-word;"&amp;gt;
+                  
+      &amp;lt;table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse:separate;width:300px;line-height:100%;"&amp;gt;
+        &amp;lt;tbody&amp;gt;
+          &amp;lt;tr&amp;gt;
+            &amp;lt;td align="center" bgcolor="#5e6ebf" role="presentation" style="border:none;border-radius:3px;cursor:auto;mso-padding-alt:10px 25px;background:#5e6ebf;" valign="middle"&amp;gt;
+              &amp;lt;a href="https://google.com" style="display:inline-block;width:250px;background:#5e6ebf;color:#ffffff;font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:17px;font-weight:bold;line-height:120%;margin:0;text-decoration:none;text-transform:none;padding:10px 25px;mso-padding-alt:0px;border-radius:3px;" target="_blank"&amp;gt;
+                Book an Appointment
+              &amp;lt;/a&amp;gt;
+            &amp;lt;/td&amp;gt;
+          &amp;lt;/tr&amp;gt;
+        &amp;lt;/tbody&amp;gt;
+      &amp;lt;/table&amp;gt;
+    
+                &amp;lt;/td&amp;gt;
+              &amp;lt;/tr&amp;gt;
+            
+              &amp;lt;tr&amp;gt;
+                &amp;lt;td align="left" style="font-size:0px;padding:10px 25px;padding-top:30px;word-break:break-word;"&amp;gt;
+                  
+      &amp;lt;div style="font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:16px;font-weight:400;line-height:24px;text-align:left;color:#637381;"&amp;gt;Lorem ipsum dolor &amp;lt;a class="text-link" href="https://google.com" style="color: #5e6ebf;"&amp;gt;sit amet consectetur&amp;lt;/a&amp;gt; adipisicing elit. Earum eaque sunt nulla in, id eveniet quae unde ad ipsam ut, harum autem porro reiciendis minus libero illo. Vero, fugiat reprehenderit.&amp;lt;/div&amp;gt;
+    
+                &amp;lt;/td&amp;gt;
+              &amp;lt;/tr&amp;gt;
+            
+              &amp;lt;tr&amp;gt;
+                &amp;lt;td align="left" style="font-size:0px;padding:10px 25px;padding-bottom:0;word-break:break-word;"&amp;gt;
+                  
+      &amp;lt;div style="font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:16px;font-weight:400;line-height:24px;text-align:left;color:#637381;"&amp;gt;Lorem ipsum dolor sit amet consectetur adipisicing elit.&amp;lt;/div&amp;gt;
+    
+                &amp;lt;/td&amp;gt;
+              &amp;lt;/tr&amp;gt;
+            
+        &amp;lt;/tbody&amp;gt;
+      &amp;lt;/table&amp;gt;
+    
+      &amp;lt;/div&amp;gt;
+    
+          &amp;lt;!--[if mso | IE]&amp;gt;&amp;lt;/td&amp;gt;&amp;lt;/tr&amp;gt;&amp;lt;/table&amp;gt;&amp;lt;![endif]--&amp;gt;
+              &amp;lt;/td&amp;gt;
+            &amp;lt;/tr&amp;gt;
+          &amp;lt;/tbody&amp;gt;
+        &amp;lt;/table&amp;gt;
+        
+      &amp;lt;/div&amp;gt;
+    
+      
+      &amp;lt;!--[if mso | IE]&amp;gt;&amp;lt;/td&amp;gt;&amp;lt;/tr&amp;gt;&amp;lt;/table&amp;gt;&amp;lt;/td&amp;gt;&amp;lt;/tr&amp;gt;&amp;lt;tr&amp;gt;&amp;lt;td class="" width="600px" &amp;gt;&amp;lt;table align="center" border="0" cellpadding="0" cellspacing="0" class="" role="presentation" style="width:600px;" width="600" bgcolor="#ffffff" &amp;gt;&amp;lt;tr&amp;gt;&amp;lt;td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"&amp;gt;&amp;lt;![endif]--&amp;gt;
+    
+      
+      &amp;lt;div style="background:#ffffff;background-color:#ffffff;margin:0px auto;max-width:600px;"&amp;gt;
+        
+        &amp;lt;table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background:#ffffff;background-color:#ffffff;width:100%;"&amp;gt;
+          &amp;lt;tbody&amp;gt;
+            &amp;lt;tr&amp;gt;
+              &amp;lt;td style="direction:ltr;font-size:0px;padding:20px 0;padding-left:15px;padding-right:15px;padding-top:0;text-align:center;"&amp;gt;
+                &amp;lt;!--[if mso | IE]&amp;gt;&amp;lt;table role="presentation" border="0" cellpadding="0" cellspacing="0"&amp;gt;&amp;lt;tr&amp;gt;&amp;lt;td class="" style="vertical-align:top;width:285px;" &amp;gt;&amp;lt;![endif]--&amp;gt;
+            
+      &amp;lt;div class="mj-column-per-50 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;"&amp;gt;
+        
+      &amp;lt;table border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:top;" width="100%"&amp;gt;
+        &amp;lt;tbody&amp;gt;
+          
+              &amp;lt;tr&amp;gt;
+                &amp;lt;td align="center" style="font-size:0px;padding:10px 25px;word-break:break-word;"&amp;gt;
+                  
+      &amp;lt;table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse:collapse;border-spacing:0px;"&amp;gt;
+        &amp;lt;tbody&amp;gt;
+          &amp;lt;tr&amp;gt;
+            &amp;lt;td style="width:235px;"&amp;gt;
+              
+      &amp;lt;img alt height="auto" src="https://res.cloudinary.com/dheck1ubc/image/upload/v1544153577/Email/Images/AnnouncementOffset/Image_1.png" style="border:0;display:block;outline:none;text-decoration:none;height:auto;width:100%;font-size:13px;" width="235"&amp;gt;
+    
+            &amp;lt;/td&amp;gt;
+          &amp;lt;/tr&amp;gt;
+        &amp;lt;/tbody&amp;gt;
+      &amp;lt;/table&amp;gt;
+    
+                &amp;lt;/td&amp;gt;
+              &amp;lt;/tr&amp;gt;
+            
+        &amp;lt;/tbody&amp;gt;
+      &amp;lt;/table&amp;gt;
+    
+      &amp;lt;/div&amp;gt;
+    
+          &amp;lt;!--[if mso | IE]&amp;gt;&amp;lt;/td&amp;gt;&amp;lt;td class="" style="vertical-align:top;width:285px;" &amp;gt;&amp;lt;![endif]--&amp;gt;
+            
+      &amp;lt;div class="mj-column-per-50 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;"&amp;gt;
+        
+      &amp;lt;table border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:top;" width="100%"&amp;gt;
+        &amp;lt;tbody&amp;gt;
+          
+              &amp;lt;tr&amp;gt;
+                &amp;lt;td align="center" style="font-size:0px;padding:10px 25px;word-break:break-word;"&amp;gt;
+                  
+      &amp;lt;table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse:collapse;border-spacing:0px;"&amp;gt;
+        &amp;lt;tbody&amp;gt;
+          &amp;lt;tr&amp;gt;
+            &amp;lt;td style="width:235px;"&amp;gt;
+              
+      &amp;lt;img alt height="auto" src="https://res.cloudinary.com/dheck1ubc/image/upload/v1544153578/Email/Images/AnnouncementOffset/Image_2.png" style="border:0;display:block;outline:none;text-decoration:none;height:auto;width:100%;font-size:13px;" width="235"&amp;gt;
+    
+            &amp;lt;/td&amp;gt;
+          &amp;lt;/tr&amp;gt;
+        &amp;lt;/tbody&amp;gt;
+      &amp;lt;/table&amp;gt;
+    
+                &amp;lt;/td&amp;gt;
+              &amp;lt;/tr&amp;gt;
+            
+        &amp;lt;/tbody&amp;gt;
+      &amp;lt;/table&amp;gt;
+    
+      &amp;lt;/div&amp;gt;
+    
+          &amp;lt;!--[if mso | IE]&amp;gt;&amp;lt;/td&amp;gt;&amp;lt;/tr&amp;gt;&amp;lt;/table&amp;gt;&amp;lt;![endif]--&amp;gt;
+              &amp;lt;/td&amp;gt;
+            &amp;lt;/tr&amp;gt;
+          &amp;lt;/tbody&amp;gt;
+        &amp;lt;/table&amp;gt;
+        
+      &amp;lt;/div&amp;gt;
+    
+      
+      &amp;lt;!--[if mso | IE]&amp;gt;&amp;lt;/td&amp;gt;&amp;lt;/tr&amp;gt;&amp;lt;/table&amp;gt;&amp;lt;/td&amp;gt;&amp;lt;/tr&amp;gt;&amp;lt;tr&amp;gt;&amp;lt;td class="" width="600px" &amp;gt;&amp;lt;table align="center" border="0" cellpadding="0" cellspacing="0" class="" role="presentation" style="width:600px;" width="600" bgcolor="#ffffff" &amp;gt;&amp;lt;tr&amp;gt;&amp;lt;td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"&amp;gt;&amp;lt;![endif]--&amp;gt;
+    
+      
+      &amp;lt;div style="background:#ffffff;background-color:#ffffff;margin:0px auto;max-width:600px;"&amp;gt;
+        
+        &amp;lt;table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background:#ffffff;background-color:#ffffff;width:100%;"&amp;gt;
+          &amp;lt;tbody&amp;gt;
+            &amp;lt;tr&amp;gt;
+              &amp;lt;td style="direction:ltr;font-size:0px;padding:20px 0;padding-left:15px;padding-right:15px;padding-top:0;text-align:center;"&amp;gt;
+                &amp;lt;!--[if mso | IE]&amp;gt;&amp;lt;table role="presentation" border="0" cellpadding="0" cellspacing="0"&amp;gt;&amp;lt;tr&amp;gt;&amp;lt;td class="" style="vertical-align:top;width:570px;" &amp;gt;&amp;lt;![endif]--&amp;gt;
+            
+      &amp;lt;div class="mj-column-per-100 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;"&amp;gt;
+        
+      &amp;lt;table border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:top;" width="100%"&amp;gt;
+        &amp;lt;tbody&amp;gt;
+          
+              &amp;lt;tr&amp;gt;
+                &amp;lt;td align="center" style="font-size:0px;padding:10px 25px;word-break:break-word;"&amp;gt;
+                  
+      &amp;lt;p style="border-top:solid 1px #DFE3E8;font-size:1px;margin:0px auto;width:100%;"&amp;gt;
+      &amp;lt;/p&amp;gt;
+      
+      &amp;lt;!--[if mso | IE]&amp;gt;&amp;lt;table align="center" border="0" cellpadding="0" cellspacing="0" style="border-top:solid 1px #DFE3E8;font-size:1px;margin:0px auto;width:520px;" role="presentation" width="520px" &amp;gt;&amp;lt;tr&amp;gt;&amp;lt;td style="height:0;line-height:0;"&amp;gt; &amp;amp;nbsp;
+&amp;lt;/td&amp;gt;&amp;lt;/tr&amp;gt;&amp;lt;/table&amp;gt;&amp;lt;![endif]--&amp;gt;
+    
+    
+                &amp;lt;/td&amp;gt;
+              &amp;lt;/tr&amp;gt;
+            
+        &amp;lt;/tbody&amp;gt;
+      &amp;lt;/table&amp;gt;
+    
+      &amp;lt;/div&amp;gt;
+    
+          &amp;lt;!--[if mso | IE]&amp;gt;&amp;lt;/td&amp;gt;&amp;lt;/tr&amp;gt;&amp;lt;/table&amp;gt;&amp;lt;![endif]--&amp;gt;
+              &amp;lt;/td&amp;gt;
+            &amp;lt;/tr&amp;gt;
+          &amp;lt;/tbody&amp;gt;
+        &amp;lt;/table&amp;gt;
+        
+      &amp;lt;/div&amp;gt;
+    
+      
+      &amp;lt;!--[if mso | IE]&amp;gt;&amp;lt;/td&amp;gt;&amp;lt;/tr&amp;gt;&amp;lt;/table&amp;gt;&amp;lt;/td&amp;gt;&amp;lt;/tr&amp;gt;&amp;lt;tr&amp;gt;&amp;lt;td class="" width="600px" &amp;gt;&amp;lt;table align="center" border="0" cellpadding="0" cellspacing="0" class="" role="presentation" style="width:600px;" width="600" bgcolor="#ffffff" &amp;gt;&amp;lt;tr&amp;gt;&amp;lt;td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"&amp;gt;&amp;lt;![endif]--&amp;gt;
+    
+      
+      &amp;lt;div style="background:#ffffff;background-color:#ffffff;margin:0px auto;max-width:600px;"&amp;gt;
+        
+        &amp;lt;table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background:#ffffff;background-color:#ffffff;width:100%;"&amp;gt;
+          &amp;lt;tbody&amp;gt;
+            &amp;lt;tr&amp;gt;
+              &amp;lt;td style="direction:ltr;font-size:0px;padding:0 15px 0 15px;text-align:center;"&amp;gt;
+                &amp;lt;!--[if mso | IE]&amp;gt;&amp;lt;table role="presentation" border="0" cellpadding="0" cellspacing="0"&amp;gt;&amp;lt;tr&amp;gt;&amp;lt;td class="" style="vertical-align:top;width:570px;" &amp;gt;&amp;lt;![endif]--&amp;gt;
+            
+      &amp;lt;div class="mj-column-per-100 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;"&amp;gt;
+        
+      &amp;lt;table border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:top;" width="100%"&amp;gt;
+        &amp;lt;tbody&amp;gt;
+          
+              &amp;lt;tr&amp;gt;
+                &amp;lt;td align="left" style="font-size:0px;padding:10px 25px;padding-bottom:0;word-break:break-word;"&amp;gt;
+                  
+      &amp;lt;div style="font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:20px;font-weight:bold;line-height:24px;text-align:left;color:#212b35;"&amp;gt;Come see us!&amp;lt;/div&amp;gt;
+    
+                &amp;lt;/td&amp;gt;
+              &amp;lt;/tr&amp;gt;
+            
+              &amp;lt;tr&amp;gt;
+                &amp;lt;td align="left" style="font-size:0px;padding:10px 25px;word-break:break-word;"&amp;gt;
+                  
+      &amp;lt;div style="font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:16px;font-weight:400;line-height:24px;text-align:left;color:#637381;"&amp;gt;We're looking forward to meeting you.&amp;lt;/div&amp;gt;
+    
+                &amp;lt;/td&amp;gt;
+              &amp;lt;/tr&amp;gt;
+            
+        &amp;lt;/tbody&amp;gt;
+      &amp;lt;/table&amp;gt;
+    
+      &amp;lt;/div&amp;gt;
+    
+          &amp;lt;!--[if mso | IE]&amp;gt;&amp;lt;/td&amp;gt;&amp;lt;/tr&amp;gt;&amp;lt;/table&amp;gt;&amp;lt;![endif]--&amp;gt;
+              &amp;lt;/td&amp;gt;
+            &amp;lt;/tr&amp;gt;
+          &amp;lt;/tbody&amp;gt;
+        &amp;lt;/table&amp;gt;
+        
+      &amp;lt;/div&amp;gt;
+    
+      
+      &amp;lt;!--[if mso | IE]&amp;gt;&amp;lt;/td&amp;gt;&amp;lt;/tr&amp;gt;&amp;lt;/table&amp;gt;&amp;lt;/td&amp;gt;&amp;lt;/tr&amp;gt;&amp;lt;tr&amp;gt;&amp;lt;td class="" width="600px" &amp;gt;&amp;lt;table align="center" border="0" cellpadding="0" cellspacing="0" class="" role="presentation" style="width:600px;" width="600" bgcolor="#ffffff" &amp;gt;&amp;lt;tr&amp;gt;&amp;lt;td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"&amp;gt;&amp;lt;![endif]--&amp;gt;
+    
+      
+      &amp;lt;div style="background:#ffffff;background-color:#ffffff;margin:0px auto;max-width:600px;"&amp;gt;
+        
+        &amp;lt;table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background:#ffffff;background-color:#ffffff;width:100%;"&amp;gt;
+          &amp;lt;tbody&amp;gt;
+            &amp;lt;tr&amp;gt;
+              &amp;lt;td style="direction:ltr;font-size:0px;padding:20px 0;padding-left:15px;padding-right:15px;text-align:center;"&amp;gt;
+                &amp;lt;!--[if mso | IE]&amp;gt;&amp;lt;table role="presentation" border="0" cellpadding="0" cellspacing="0"&amp;gt;&amp;lt;tr&amp;gt;&amp;lt;td class="" style="vertical-align:top;width:285px;" &amp;gt;&amp;lt;![endif]--&amp;gt;
+            
+      &amp;lt;div class="mj-column-per-50 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;"&amp;gt;
+        
+      &amp;lt;table border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:top;" width="100%"&amp;gt;
+        &amp;lt;tbody&amp;gt;
+          
+              &amp;lt;tr&amp;gt;
+                &amp;lt;td align="left" style="font-size:0px;padding:10px 25px;padding-bottom:0;word-break:break-word;"&amp;gt;
+                  
+      &amp;lt;div style="font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:12px;font-weight:bold;line-height:24px;text-align:left;text-transform:uppercase;color:#212b35;"&amp;gt;address&amp;lt;/div&amp;gt;
+    
+                &amp;lt;/td&amp;gt;
+              &amp;lt;/tr&amp;gt;
+            
+              &amp;lt;tr&amp;gt;
+                &amp;lt;td align="left" style="font-size:0px;padding:10px 25px;padding-top:0;word-break:break-word;"&amp;gt;
+                  
+      &amp;lt;div style="font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:400;line-height:24px;text-align:left;color:#637381;"&amp;gt;Minneapolis Convention Center&amp;#13;
+            &amp;lt;br&amp;gt;&amp;#13;
+            123 Main Street, 78701&amp;lt;/div&amp;gt;
+    
+                &amp;lt;/td&amp;gt;
+              &amp;lt;/tr&amp;gt;
+            
+        &amp;lt;/tbody&amp;gt;
+      &amp;lt;/table&amp;gt;
+    
+      &amp;lt;/div&amp;gt;
+    
+          &amp;lt;!--[if mso | IE]&amp;gt;&amp;lt;/td&amp;gt;&amp;lt;td class="" style="vertical-align:top;width:285px;" &amp;gt;&amp;lt;![endif]--&amp;gt;
+            
+      &amp;lt;div class="mj-column-per-50 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;"&amp;gt;
+        
+      &amp;lt;table border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:top;" width="100%"&amp;gt;
+        &amp;lt;tbody&amp;gt;
+          
+              &amp;lt;tr&amp;gt;
+                &amp;lt;td align="left" style="font-size:0px;padding:10px 25px;padding-bottom:0;word-break:break-word;"&amp;gt;
+                  
+      &amp;lt;div style="font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:12px;font-weight:bold;line-height:24px;text-align:left;text-transform:uppercase;color:#212b35;"&amp;gt;Hours of Operation&amp;lt;/div&amp;gt;
+    
+                &amp;lt;/td&amp;gt;
+              &amp;lt;/tr&amp;gt;
+            
+              &amp;lt;tr&amp;gt;
+                &amp;lt;td align="left" style="font-size:0px;padding:10px 25px;padding-top:0;word-break:break-word;"&amp;gt;
+                  
+      &amp;lt;div style="font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:14px;font-weight:400;line-height:24px;text-align:left;color:#637381;"&amp;gt;Monday, December 20th: 8:00AM - 5:00PM&amp;#13;
+            &amp;lt;br&amp;gt;&amp;#13;
+            Tuesday, December 21st: 8:00AM - 5:00PM&amp;lt;/div&amp;gt;
+    
+                &amp;lt;/td&amp;gt;
+              &amp;lt;/tr&amp;gt;
+            
+        &amp;lt;/tbody&amp;gt;
+      &amp;lt;/table&amp;gt;
+    
+      &amp;lt;/div&amp;gt;
+    
+          &amp;lt;!--[if mso | IE]&amp;gt;&amp;lt;/td&amp;gt;&amp;lt;/tr&amp;gt;&amp;lt;/table&amp;gt;&amp;lt;![endif]--&amp;gt;
+              &amp;lt;/td&amp;gt;
+            &amp;lt;/tr&amp;gt;
+          &amp;lt;/tbody&amp;gt;
+        &amp;lt;/table&amp;gt;
+        
+      &amp;lt;/div&amp;gt;
+    
+      
+      &amp;lt;!--[if mso | IE]&amp;gt;&amp;lt;/td&amp;gt;&amp;lt;/tr&amp;gt;&amp;lt;/table&amp;gt;&amp;lt;/td&amp;gt;&amp;lt;/tr&amp;gt;&amp;lt;tr&amp;gt;&amp;lt;td class="" width="600px" &amp;gt;&amp;lt;table align="center" border="0" cellpadding="0" cellspacing="0" class="" role="presentation" style="width:600px;" width="600" bgcolor="#ffffff" &amp;gt;&amp;lt;tr&amp;gt;&amp;lt;td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"&amp;gt;&amp;lt;![endif]--&amp;gt;
+    
+      
+      &amp;lt;div style="background:#ffffff;background-color:#ffffff;margin:0px auto;max-width:600px;"&amp;gt;
+        
+        &amp;lt;table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background:#ffffff;background-color:#ffffff;width:100%;"&amp;gt;
+          &amp;lt;tbody&amp;gt;
+            &amp;lt;tr&amp;gt;
+              &amp;lt;td style="direction:ltr;font-size:0px;padding:20px 0;padding-left:15px;padding-right:15px;text-align:center;"&amp;gt;
+                &amp;lt;!--[if mso | IE]&amp;gt;&amp;lt;table role="presentation" border="0" cellpadding="0" cellspacing="0"&amp;gt;&amp;lt;tr&amp;gt;&amp;lt;td class="" style="vertical-align:top;width:570px;" &amp;gt;&amp;lt;![endif]--&amp;gt;
+            
+      &amp;lt;div class="mj-column-per-100 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;"&amp;gt;
+        
+      &amp;lt;table border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:top;" width="100%"&amp;gt;
+        &amp;lt;tbody&amp;gt;
+          
+              &amp;lt;tr&amp;gt;
+                &amp;lt;td align="center" style="font-size:0px;padding:10px 25px;word-break:break-word;"&amp;gt;
+                  
+      &amp;lt;table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse:collapse;border-spacing:0px;"&amp;gt;
+        &amp;lt;tbody&amp;gt;
+          &amp;lt;tr&amp;gt;
+            &amp;lt;td style="width:520px;"&amp;gt;
+              
+      &amp;lt;img alt height="auto" src="https://res.cloudinary.com/dheck1ubc/image/upload/v1544153579/Email/Images/AnnouncementOffset/map.jpg" style="border:0;display:block;outline:none;text-decoration:none;height:auto;width:100%;font-size:13px;" width="520"&amp;gt;
+    
+            &amp;lt;/td&amp;gt;
+          &amp;lt;/tr&amp;gt;
+        &amp;lt;/tbody&amp;gt;
+      &amp;lt;/table&amp;gt;
+    
+                &amp;lt;/td&amp;gt;
+              &amp;lt;/tr&amp;gt;
+            
+        &amp;lt;/tbody&amp;gt;
+      &amp;lt;/table&amp;gt;
+    
+      &amp;lt;/div&amp;gt;
+    
+          &amp;lt;!--[if mso | IE]&amp;gt;&amp;lt;/td&amp;gt;&amp;lt;/tr&amp;gt;&amp;lt;/table&amp;gt;&amp;lt;![endif]--&amp;gt;
+              &amp;lt;/td&amp;gt;
+            &amp;lt;/tr&amp;gt;
+          &amp;lt;/tbody&amp;gt;
+        &amp;lt;/table&amp;gt;
+        
+      &amp;lt;/div&amp;gt;
+    
+      
+      &amp;lt;!--[if mso | IE]&amp;gt;&amp;lt;/td&amp;gt;&amp;lt;/tr&amp;gt;&amp;lt;/table&amp;gt;&amp;lt;/td&amp;gt;&amp;lt;/tr&amp;gt;&amp;lt;/table&amp;gt;&amp;lt;![endif]--&amp;gt;
+              &amp;lt;/td&amp;gt;
+            &amp;lt;/tr&amp;gt;
+          &amp;lt;/tbody&amp;gt;
+        &amp;lt;/table&amp;gt;
+        
+      &amp;lt;/div&amp;gt;
+    
+      
+      &amp;lt;!--[if mso | IE]&amp;gt;&amp;lt;/td&amp;gt;&amp;lt;/tr&amp;gt;&amp;lt;/table&amp;gt;&amp;lt;![endif]--&amp;gt;
+    
+    
+      &amp;lt;table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;"&amp;gt;
+        &amp;lt;tbody&amp;gt;
+          &amp;lt;tr&amp;gt;
+            &amp;lt;td&amp;gt;
+              
+        
+      &amp;lt;!--[if mso | IE]&amp;gt;&amp;lt;table align="center" border="0" cellpadding="0" cellspacing="0" class="" role="presentation" style="width:600px;" width="600" &amp;gt;&amp;lt;tr&amp;gt;&amp;lt;td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"&amp;gt;&amp;lt;![endif]--&amp;gt;
+    
+        
+      &amp;lt;div style="margin:0px auto;max-width:600px;"&amp;gt;
+        
+        &amp;lt;table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;"&amp;gt;
+          &amp;lt;tbody&amp;gt;
+            &amp;lt;tr&amp;gt;
+              &amp;lt;td style="direction:ltr;font-size:0px;padding:20px 0;text-align:center;"&amp;gt;
+                &amp;lt;!--[if mso | IE]&amp;gt;&amp;lt;table role="presentation" border="0" cellpadding="0" cellspacing="0"&amp;gt;&amp;lt;tr&amp;gt;&amp;lt;td class="" width="600px" &amp;gt;&amp;lt;table align="center" border="0" cellpadding="0" cellspacing="0" class="" role="presentation" style="width:600px;" width="600" &amp;gt;&amp;lt;tr&amp;gt;&amp;lt;td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"&amp;gt;&amp;lt;![endif]--&amp;gt;
+    
+      
+      &amp;lt;div style="margin:0px auto;max-width:600px;"&amp;gt;
+        
+        &amp;lt;table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;"&amp;gt;
+          &amp;lt;tbody&amp;gt;
+            &amp;lt;tr&amp;gt;
+              &amp;lt;td style="direction:ltr;font-size:0px;padding:20px 0;text-align:center;"&amp;gt;
+                &amp;lt;!--[if mso | IE]&amp;gt;&amp;lt;table role="presentation" border="0" cellpadding="0" cellspacing="0"&amp;gt;&amp;lt;tr&amp;gt;&amp;lt;td class="" style="vertical-align:top;width:600px;" &amp;gt;&amp;lt;![endif]--&amp;gt;
+            
+      &amp;lt;div class="mj-column-per-100 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;"&amp;gt;
+        
+      &amp;lt;table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%"&amp;gt;
+        &amp;lt;tbody&amp;gt;
+          &amp;lt;tr&amp;gt;
+            &amp;lt;td style="vertical-align:top;padding:0;"&amp;gt;
+              
+      &amp;lt;table border="0" cellpadding="0" cellspacing="0" role="presentation" style width="100%"&amp;gt;
+        &amp;lt;tbody&amp;gt;
+          
+              &amp;lt;tr&amp;gt;
+                &amp;lt;td align="center" style="font-size:0px;padding:0;word-break:break-word;"&amp;gt;
+                  
+      
+     &amp;lt;!--[if mso | IE]&amp;gt;&amp;lt;table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" &amp;gt;&amp;lt;tr&amp;gt;&amp;lt;td&amp;gt;&amp;lt;![endif]--&amp;gt;
+              &amp;lt;table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="float:none;display:inline-table;"&amp;gt;
+                &amp;lt;tbody&amp;gt;
+                  
+      &amp;lt;tr&amp;gt;
+        &amp;lt;td style="padding:4px;vertical-align:middle;"&amp;gt;
+          &amp;lt;table border="0" cellpadding="0" cellspacing="0" role="presentation" style="background:#A1A0A0;border-radius:3px;width:30px;"&amp;gt;
+            &amp;lt;tbody&amp;gt;
+              &amp;lt;tr&amp;gt;
+                &amp;lt;td style="font-size:0;height:30px;vertical-align:middle;width:30px;"&amp;gt;
+                  &amp;lt;a href="https://www.facebook.com/sharer/sharer.php?u=https://mjml.io/" target="_blank"&amp;gt;
+                    &amp;lt;img height="30" src="https://www.mailjet.com/images/theme/v1/icons/ico-social/facebook.png" style="border-radius:3px;display:block;" width="30"&amp;gt;
+                  &amp;lt;/a&amp;gt;
+                &amp;lt;/td&amp;gt;
+              &amp;lt;/tr&amp;gt;
+            &amp;lt;/tbody&amp;gt;
+          &amp;lt;/table&amp;gt;
+        &amp;lt;/td&amp;gt;
+        
+      &amp;lt;/tr&amp;gt;
+    
+                &amp;lt;/tbody&amp;gt;
+              &amp;lt;/table&amp;gt;
+            &amp;lt;!--[if mso | IE]&amp;gt;&amp;lt;/td&amp;gt;&amp;lt;td&amp;gt;&amp;lt;![endif]--&amp;gt;
+              &amp;lt;table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="float:none;display:inline-table;"&amp;gt;
+                &amp;lt;tbody&amp;gt;
+                  
+      &amp;lt;tr&amp;gt;
+        &amp;lt;td style="padding:4px;vertical-align:middle;"&amp;gt;
+          &amp;lt;table border="0" cellpadding="0" cellspacing="0" role="presentation" style="background:#A1A0A0;border-radius:3px;width:30px;"&amp;gt;
+            &amp;lt;tbody&amp;gt;
+              &amp;lt;tr&amp;gt;
+                &amp;lt;td style="font-size:0;height:30px;vertical-align:middle;width:30px;"&amp;gt;
+                  &amp;lt;a href="https://plus.google.com/share?url=https://mjml.io/" target="_blank"&amp;gt;
+                    &amp;lt;img height="30" src="https://www.mailjet.com/images/theme/v1/icons/ico-social/google-plus.png" style="border-radius:3px;display:block;" width="30"&amp;gt;
+                  &amp;lt;/a&amp;gt;
+                &amp;lt;/td&amp;gt;
+              &amp;lt;/tr&amp;gt;
+            &amp;lt;/tbody&amp;gt;
+          &amp;lt;/table&amp;gt;
+        &amp;lt;/td&amp;gt;
+        
+      &amp;lt;/tr&amp;gt;
+    
+                &amp;lt;/tbody&amp;gt;
+              &amp;lt;/table&amp;gt;
+            &amp;lt;!--[if mso | IE]&amp;gt;&amp;lt;/td&amp;gt;&amp;lt;td&amp;gt;&amp;lt;![endif]--&amp;gt;
+              &amp;lt;table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="float:none;display:inline-table;"&amp;gt;
+                &amp;lt;tbody&amp;gt;
+                  
+      &amp;lt;tr&amp;gt;
+        &amp;lt;td style="padding:4px;vertical-align:middle;"&amp;gt;
+          &amp;lt;table border="0" cellpadding="0" cellspacing="0" role="presentation" style="background:#A1A0A0;border-radius:3px;width:30px;"&amp;gt;
+            &amp;lt;tbody&amp;gt;
+              &amp;lt;tr&amp;gt;
+                &amp;lt;td style="font-size:0;height:30px;vertical-align:middle;width:30px;"&amp;gt;
+                  &amp;lt;a href="https://twitter.com/intent/tweet?url=https://mjml.io/" target="_blank"&amp;gt;
+                    &amp;lt;img height="30" src="https://www.mailjet.com/images/theme/v1/icons/ico-social/twitter.png" style="border-radius:3px;display:block;" width="30"&amp;gt;
+                  &amp;lt;/a&amp;gt;
+                &amp;lt;/td&amp;gt;
+              &amp;lt;/tr&amp;gt;
+            &amp;lt;/tbody&amp;gt;
+          &amp;lt;/table&amp;gt;
+        &amp;lt;/td&amp;gt;
+        
+      &amp;lt;/tr&amp;gt;
+    
+                &amp;lt;/tbody&amp;gt;
+              &amp;lt;/table&amp;gt;
+            &amp;lt;!--[if mso | IE]&amp;gt;&amp;lt;/td&amp;gt;&amp;lt;td&amp;gt;&amp;lt;![endif]--&amp;gt;
+              &amp;lt;table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="float:none;display:inline-table;"&amp;gt;
+                &amp;lt;tbody&amp;gt;
+                  
+      &amp;lt;tr&amp;gt;
+        &amp;lt;td style="padding:4px;vertical-align:middle;"&amp;gt;
+          &amp;lt;table border="0" cellpadding="0" cellspacing="0" role="presentation" style="background:#A1A0A0;border-radius:3px;width:30px;"&amp;gt;
+            &amp;lt;tbody&amp;gt;
+              &amp;lt;tr&amp;gt;
+                &amp;lt;td style="font-size:0;height:30px;vertical-align:middle;width:30px;"&amp;gt;
+                  &amp;lt;a href="https://www.linkedin.com/shareArticle?mini=true&amp;amp;url=https://mjml.io/&amp;amp;title=&amp;amp;summary=&amp;amp;source=" target="_blank"&amp;gt;
+                    &amp;lt;img height="30" src="https://www.mailjet.com/images/theme/v1/icons/ico-social/linkedin.png" style="border-radius:3px;display:block;" width="30"&amp;gt;
+                  &amp;lt;/a&amp;gt;
+                &amp;lt;/td&amp;gt;
+              &amp;lt;/tr&amp;gt;
+            &amp;lt;/tbody&amp;gt;
+          &amp;lt;/table&amp;gt;
+        &amp;lt;/td&amp;gt;
+        
+      &amp;lt;/tr&amp;gt;
+    
+                &amp;lt;/tbody&amp;gt;
+              &amp;lt;/table&amp;gt;
+            &amp;lt;!--[if mso | IE]&amp;gt;&amp;lt;/td&amp;gt;&amp;lt;/tr&amp;gt;&amp;lt;/table&amp;gt;&amp;lt;![endif]--&amp;gt;
+    
+    
+                &amp;lt;/td&amp;gt;
+              &amp;lt;/tr&amp;gt;
+            
+              &amp;lt;tr&amp;gt;
+                &amp;lt;td align="center" style="font-size:0px;padding:10px 25px;word-break:break-word;"&amp;gt;
+                  
+      &amp;lt;div style="font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-weight:bold;line-height:24px;text-align:center;color:#445566;"&amp;gt;View this email in your browser&amp;lt;/div&amp;gt;
+    
+                &amp;lt;/td&amp;gt;
+              &amp;lt;/tr&amp;gt;
+            
+              &amp;lt;tr&amp;gt;
+                &amp;lt;td align="center" style="font-size:0px;padding:10px 25px;word-break:break-word;"&amp;gt;
+                  
+      &amp;lt;div style="font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-weight:400;line-height:16px;text-align:center;color:#445566;"&amp;gt;You are receiving this email advertisement because you registered with Croft's Accountants. (123 Main Street, 78701, Minneapolis, MN) and agreed to receive emails from us regarding new features, events and special offers.&amp;lt;/div&amp;gt;
+    
+                &amp;lt;/td&amp;gt;
+              &amp;lt;/tr&amp;gt;
+            
+              &amp;lt;tr&amp;gt;
+                &amp;lt;td align="center" style="font-size:0px;padding:10px 25px;word-break:break-word;"&amp;gt;
+                  
+      &amp;lt;div style="font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-weight:400;line-height:16px;text-align:center;color:#445566;"&amp;gt;&amp;amp;copy; Croft's Accountants Inc., All Rights Reserved.&amp;lt;/div&amp;gt;
+    
+                &amp;lt;/td&amp;gt;
+              &amp;lt;/tr&amp;gt;
+            
+        &amp;lt;/tbody&amp;gt;
+      &amp;lt;/table&amp;gt;
+    
+            &amp;lt;/td&amp;gt;
+          &amp;lt;/tr&amp;gt;
+        &amp;lt;/tbody&amp;gt;
+      &amp;lt;/table&amp;gt;
+    
+      &amp;lt;/div&amp;gt;
+    
+          &amp;lt;!--[if mso | IE]&amp;gt;&amp;lt;/td&amp;gt;&amp;lt;/tr&amp;gt;&amp;lt;/table&amp;gt;&amp;lt;![endif]--&amp;gt;
+              &amp;lt;/td&amp;gt;
+            &amp;lt;/tr&amp;gt;
+          &amp;lt;/tbody&amp;gt;
+        &amp;lt;/table&amp;gt;
+        
+      &amp;lt;/div&amp;gt;
+    
+      
+      &amp;lt;!--[if mso | IE]&amp;gt;&amp;lt;/td&amp;gt;&amp;lt;/tr&amp;gt;&amp;lt;/table&amp;gt;&amp;lt;/td&amp;gt;&amp;lt;/tr&amp;gt;&amp;lt;tr&amp;gt;&amp;lt;td class="" width="600px" &amp;gt;&amp;lt;table align="center" border="0" cellpadding="0" cellspacing="0" class="" role="presentation" style="width:600px;" width="600" &amp;gt;&amp;lt;tr&amp;gt;&amp;lt;td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"&amp;gt;&amp;lt;![endif]--&amp;gt;
+    
+      
+      &amp;lt;div style="margin:0px auto;max-width:600px;"&amp;gt;
+        
+        &amp;lt;table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="width:100%;"&amp;gt;
+          &amp;lt;tbody&amp;gt;
+            &amp;lt;tr&amp;gt;
+              &amp;lt;td style="direction:ltr;font-size:0px;padding:20px 0;padding-top:0;text-align:center;"&amp;gt;
+                &amp;lt;!--[if mso | IE]&amp;gt;&amp;lt;table role="presentation" border="0" cellpadding="0" cellspacing="0"&amp;gt;&amp;lt;tr&amp;gt;&amp;lt;td class="" style="width:600px;" &amp;gt;&amp;lt;![endif]--&amp;gt;
+            
+      &amp;lt;div class="mj-column-per-100 mj-outlook-group-fix" style="font-size:0;line-height:0;text-align:left;display:inline-block;width:100%;direction:ltr;"&amp;gt;
+        &amp;lt;!--[if mso | IE]&amp;gt;&amp;lt;table border="0" cellpadding="0" cellspacing="0" role="presentation" &amp;gt;&amp;lt;tr&amp;gt;&amp;lt;td style="vertical-align:top;width:600px;" &amp;gt;&amp;lt;![endif]--&amp;gt;
+                
+      &amp;lt;div class="mj-column-per-100 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;"&amp;gt;
+        
+      &amp;lt;table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%"&amp;gt;
+        &amp;lt;tbody&amp;gt;
+          &amp;lt;tr&amp;gt;
+            &amp;lt;td style="vertical-align:top;padding-right:0;"&amp;gt;
+              
+      &amp;lt;table border="0" cellpadding="0" cellspacing="0" role="presentation" style width="100%"&amp;gt;
+        &amp;lt;tbody&amp;gt;
+          
+              &amp;lt;tr&amp;gt;
+                &amp;lt;td align="center" style="font-size:0px;padding:10px 25px;word-break:break-word;"&amp;gt;
+                  
+      &amp;lt;div style="font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:11px;font-weight:bold;line-height:16px;text-align:center;color:#445566;"&amp;gt;&amp;lt;a class="footer-link" href="https://www.google.com" style="color: #888888;"&amp;gt;Privacy&amp;lt;/a&amp;gt;&amp;amp;#xA0;&amp;amp;#xA0;&amp;amp;#xA0;&amp;amp;#xA0;&amp;amp;#xA0;&amp;amp;#xA0;&amp;amp;#xA0;&amp;amp;#xA0;&amp;lt;a class="footer-link" href="https://www.google.com" style="color: #888888;"&amp;gt;Unsubscribe&amp;lt;/a&amp;gt;&amp;lt;/div&amp;gt;
+    
+                &amp;lt;/td&amp;gt;
+              &amp;lt;/tr&amp;gt;
+            
+        &amp;lt;/tbody&amp;gt;
+      &amp;lt;/table&amp;gt;
+    
+            &amp;lt;/td&amp;gt;
+          &amp;lt;/tr&amp;gt;
+        &amp;lt;/tbody&amp;gt;
+      &amp;lt;/table&amp;gt;
+    
+      &amp;lt;/div&amp;gt;
+    
+              &amp;lt;!--[if mso | IE]&amp;gt;&amp;lt;/td&amp;gt;&amp;lt;/tr&amp;gt;&amp;lt;/table&amp;gt;&amp;lt;![endif]--&amp;gt;
+      &amp;lt;/div&amp;gt;
+    
+          &amp;lt;!--[if mso | IE]&amp;gt;&amp;lt;/td&amp;gt;&amp;lt;/tr&amp;gt;&amp;lt;/table&amp;gt;&amp;lt;![endif]--&amp;gt;
+              &amp;lt;/td&amp;gt;
+            &amp;lt;/tr&amp;gt;
+          &amp;lt;/tbody&amp;gt;
+        &amp;lt;/table&amp;gt;
+        
+      &amp;lt;/div&amp;gt;
+    
+      
+      &amp;lt;!--[if mso | IE]&amp;gt;&amp;lt;/td&amp;gt;&amp;lt;/tr&amp;gt;&amp;lt;/table&amp;gt;&amp;lt;/td&amp;gt;&amp;lt;/tr&amp;gt;&amp;lt;/table&amp;gt;&amp;lt;![endif]--&amp;gt;
+              &amp;lt;/td&amp;gt;
+            &amp;lt;/tr&amp;gt;
+          &amp;lt;/tbody&amp;gt;
+        &amp;lt;/table&amp;gt;
+        
+      &amp;lt;/div&amp;gt;
+    
+        
+      &amp;lt;!--[if mso | IE]&amp;gt;&amp;lt;/td&amp;gt;&amp;lt;/tr&amp;gt;&amp;lt;/table&amp;gt;&amp;lt;![endif]--&amp;gt;
+    
+      
+            &amp;lt;/td&amp;gt;
+          &amp;lt;/tr&amp;gt;
+        &amp;lt;/tbody&amp;gt;
+      &amp;lt;/table&amp;gt;
+    
+      &amp;lt;/div&amp;gt;
+    
+  &amp;lt;/body&amp;gt;
+&amp;lt;/html&amp;gt;
+  &lt;/html&gt;
+        &lt;mjml&gt;&lt;![CDATA[&lt;mjml&gt;
+  &lt;mj-head&gt;
+    &lt;mj-title&gt;Discount Light&lt;/mj-title&gt;
+    &lt;mj-preview&gt;Pre-header Text&lt;/mj-preview&gt;
+    &lt;mj-attributes&gt;
+      &lt;mj-all font-family="'Helvetica Neue', Helvetica, Arial, sans-serif"&gt;&lt;/mj-all&gt;
+      &lt;mj-text font-weight="400" font-size="16px" color="#000000" line-height="24px" font-family="'Helvetica Neue', Helvetica, Arial, sans-serif"&gt;&lt;/mj-text&gt;
+    &lt;/mj-attributes&gt;
+    &lt;mj-style inline="inline"&gt;
+      .body-section {
+      -webkit-box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15);
+      -moz-box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15);
+      box-shadow: 1px 4px 11px 0px rgba(0, 0, 0, 0.15);
+      }
+    &lt;/mj-style&gt;
+    &lt;mj-style inline="inline"&gt;
+      .text-link {
+      color: #5e6ebf
+      }
+    &lt;/mj-style&gt;
+    &lt;mj-style inline="inline"&gt;
+      .footer-link {
+      color: #888888
+      }
+    &lt;/mj-style&gt;
+
+  &lt;/mj-head&gt;
+  &lt;mj-body background-color="#E7E7E7" width="600px"&gt;
+    &lt;mj-section full-width="full-width" background-color="#040B4F" padding-bottom="0"&gt;
+      &lt;mj-column width="100%"&gt;
+        &lt;mj-image src="https://res.cloudinary.com/dheck1ubc/image/upload/v1544153577/Email/Images/AnnouncementOffset/crofts-white.png" alt="" align="center" width="150px" /&gt;
+        &lt;mj-text color="#ffffff" font-weight="bold" align="center" text-transform="uppercase" font-size="16px" letter-spacing="1px" padding-top="30px"&gt;
+          {{mjml.location}}, {{mjml.locationState}}
+          &lt;br /&gt;
+          &lt;span style="color: #979797; font-weight: normal"&gt;-&lt;/span&gt;
+        &lt;/mj-text&gt;
+        &lt;mj-text color="#17CBC4" align="center" font-size="13px" padding-top="0" font-weight="bold" text-transform="uppercase" letter-spacing="1px" line-height="20px"&gt;
+          {{mjml.locationName}}
+          &lt;br /&gt;
+          {{mjml.locationAddress}}
+        &lt;/mj-text&gt;
+        &lt;mj-image src="https://res.cloudinary.com/dheck1ubc/image/upload/v1544156968/Email/Images/AnnouncementOffset/header-top.png" width="600px" alt="" padding="0" href="https://google.com" /&gt;
+      &lt;/mj-column&gt;
+    &lt;/mj-section&gt;
+    &lt;mj-section background-color="#1f2e78"&gt;
+      &lt;mj-column width="100%"&gt;
+        &lt;mj-image src="https://res.cloudinary.com/dheck1ubc/image/upload/v1544156968/Email/Images/AnnouncementOffset/header-bottom.png" width="600px" alt="" padding="0" href="https://google.com" /&gt;
+      &lt;/mj-column&gt;
+    &lt;/mj-section&gt;
+    &lt;mj-wrapper padding-top="0" padding-bottom="0" css-class="body-section"&gt;
+      &lt;mj-section background-color="#ffffff" padding-left="15px" padding-right="15px"&gt;
+        &lt;mj-column width="100%"&gt;
+          &lt;mj-text color="#212b35" font-weight="bold" font-size="20px"&gt;
+            Croft's in {{mjml.location}} is opening {{mjml.openDate}}
+          &lt;/mj-text&gt;
+          &lt;mj-text color="#637381" font-size="16px"&gt;
+            Hi ${current.caller_id.getDisplayValue()},
+          &lt;/mj-text&gt;
+          &lt;mj-text color="#637381" font-size="16px"&gt;
+            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quia a assumenda nulla in quisquam optio quibusdam fugiat perspiciatis nobis, ad tempora culpa porro labore. Repudiandae accusamus obcaecati voluptatibus accusantium perspiciatis.
+          &lt;/mj-text&gt;
+          &lt;mj-text color="#637381" font-size="16px"&gt;
+            Tempora culpa porro labore. Repudiandae accusamus obcaecati voluptatibus accusantium perspiciatis:
+          &lt;/mj-text&gt;
+          &lt;mj-text color="#637381" font-size="16px"&gt;
+            &lt;ul&gt;
+              &lt;li style="padding-bottom: 20px"&gt;&lt;strong&gt;Lorem ipsum dolor:&lt;/strong&gt; Sit amet consectetur adipisicing elit.&lt;/li&gt;
+              &lt;li style="padding-bottom: 20px"&gt;&lt;strong&gt;Quia a assumenda nulla:&lt;/strong&gt; Repudiandae accusamus obcaecati voluptatibus accusantium perspiciatis.&lt;/li&gt;
+              &lt;li&gt;&lt;strong&gt;Tempora culpa porro labore:&lt;/strong&gt; In quisquam optio quibusdam fugiat perspiciatis nobis.&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/mj-text&gt;
+          &lt;mj-text color="#637381" font-size="16px" padding-bottom="30px"&gt;
+            Lorem ipsum dolor &lt;a class="text-link" href="https://google.com"&gt;sit amet consectetur&lt;/a&gt; adipisicing elit. Earum eaque sunt nulla in, id eveniet quae unde ad ipsam ut, harum autem porro reiciendis minus libero illo. Vero, fugiat reprehenderit.
+          &lt;/mj-text&gt;
+          &lt;mj-button background-color="#5e6ebf" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://google.com" width="300px"&gt;
+            RSVP Today
+          &lt;/mj-button&gt;
+          &lt;mj-button background-color="#5e6ebf" align="center" color="#ffffff" font-size="17px" font-weight="bold" href="https://google.com" width="300px"&gt;
+            Book an Appointment
+          &lt;/mj-button&gt;
+          &lt;mj-text color="#637381" font-size="16px" padding-top="30px"&gt;
+            Lorem ipsum dolor &lt;a class="text-link" href="https://google.com"&gt;sit amet consectetur&lt;/a&gt; adipisicing elit. Earum eaque sunt nulla in, id eveniet quae unde ad ipsam ut, harum autem porro reiciendis minus libero illo. Vero, fugiat reprehenderit.
+          &lt;/mj-text&gt;
+          &lt;mj-text color="#637381" font-size="16px" padding-bottom="0"&gt;
+            Lorem ipsum dolor sit amet consectetur adipisicing elit.
+          &lt;/mj-text&gt;
+        &lt;/mj-column&gt;
+      &lt;/mj-section&gt;
+      &lt;mj-section background-color="#ffffff" padding-left="15px" padding-right="15px" padding-top="0"&gt;
+        &lt;mj-column width="50%"&gt;
+          &lt;mj-image align="center" src="https://res.cloudinary.com/dheck1ubc/image/upload/v1544153577/Email/Images/AnnouncementOffset/Image_1.png" alt="" /&gt;
+        &lt;/mj-column&gt;
+        &lt;mj-column width="50%"&gt;
+          &lt;mj-image align="center" src="https://res.cloudinary.com/dheck1ubc/image/upload/v1544153578/Email/Images/AnnouncementOffset/Image_2.png" alt="" /&gt;
+        &lt;/mj-column&gt;
+      &lt;/mj-section&gt;
+      &lt;mj-section background-color="#ffffff" padding-left="15px" padding-right="15px" padding-top="0"&gt;
+        &lt;mj-column width="100%"&gt;
+          &lt;mj-divider border-color="#DFE3E8" border-width="1px" /&gt;
+        &lt;/mj-column&gt;
+      &lt;/mj-section&gt;
+      &lt;mj-section background-color="#ffffff" padding="0 15px 0 15px"&gt;
+        &lt;mj-column width="100%"&gt;
+          &lt;mj-text color="#212b35" font-weight="bold" font-size="20px" padding-bottom="0"&gt;
+            Come see us!
+          &lt;/mj-text&gt;
+          &lt;mj-text color="#637381" font-size="16px"&gt;
+            We're looking forward to meeting you.
+          &lt;/mj-text&gt;
+        &lt;/mj-column&gt;
+      &lt;/mj-section&gt;
+      &lt;mj-section background-color="#ffffff" padding-left="15px" padding-right="15px"&gt;
+        &lt;mj-column width="50%"&gt;
+          &lt;mj-text color="#212b35" font-size="12px" text-transform="uppercase" font-weight="bold" padding-bottom="0"&gt;
+            address
+          &lt;/mj-text&gt;
+          &lt;mj-text color="#637381" font-size="14px" padding-top="0"&gt;
+            {{mjml.locationName}}
+            &lt;br /&gt;
+            {{mjml.locationAddress}}
+          &lt;/mj-text&gt;
+        &lt;/mj-column&gt;
+        &lt;mj-column width="50%"&gt;
+          &lt;mj-text color="#212b35" font-size="12px" text-transform="uppercase" font-weight="bold" padding-bottom="0"&gt;
+            Hours of Operation
+          &lt;/mj-text&gt;
+          &lt;mj-text color="#637381" font-size="14px" padding-top="0"&gt;
+            Monday, December 20th: 8:00AM - 5:00PM
+            &lt;br /&gt;
+            Tuesday, December 21st: 8:00AM - 5:00PM
+          &lt;/mj-text&gt;
+        &lt;/mj-column&gt;
+      &lt;/mj-section&gt;
+      &lt;mj-section background-color="#ffffff" padding-left="15px" padding-right="15px"&gt;
+        &lt;mj-column width="100%"&gt;
+          &lt;mj-image src="https://res.cloudinary.com/dheck1ubc/image/upload/v1544153579/Email/Images/AnnouncementOffset/map.jpg" alt="" /&gt;
+        &lt;/mj-column&gt;
+      &lt;/mj-section&gt;
+    &lt;/mj-wrapper&gt;
+
+    &lt;mj-wrapper full-width="full-width"&gt;
+      &lt;mj-section&gt;
+        &lt;mj-column width="100%" padding="0"&gt;
+          &lt;mj-social font-size="15px" icon-size="30px" mode="horizontal" padding="0" align="center"&gt;
+            &lt;mj-social-element name="facebook" href="https://mjml.io/" background-color="#A1A0A0"&gt;
+            &lt;/mj-social-element&gt;
+            &lt;mj-social-element name="google" href="https://mjml.io/" background-color="#A1A0A0"&gt;
+            &lt;/mj-social-element&gt;
+            &lt;mj-social-element name="twitter" href="https://mjml.io/" background-color="#A1A0A0"&gt;
+            &lt;/mj-social-element&gt;
+            &lt;mj-social-element name="linkedin" href="https://mjml.io/" background-color="#A1A0A0"&gt;
+            &lt;/mj-social-element&gt;
+          &lt;/mj-social&gt;
+          &lt;mj-text color="#445566" font-size="11px" font-weight="bold" align="center"&gt;
+            View this email in your browser
+          &lt;/mj-text&gt;
+          &lt;mj-text color="#445566" font-size="11px" align="center" line-height="16px"&gt;
+            You are receiving this email advertisement because you registered with Croft's Accountants. ({{mjml.locationAddress}}, {{mjml.location}}, {{mjml.locationState}}) and agreed to receive emails from us regarding new features, events and special offers.
+          &lt;/mj-text&gt;
+          &lt;mj-text color="#445566" font-size="11px" align="center" line-height="16px"&gt;
+            &amp;copy; Croft's Accountants Inc., All Rights Reserved.
+          &lt;/mj-text&gt;
+        &lt;/mj-column&gt;
+      &lt;/mj-section&gt;
+      &lt;mj-section padding-top="0"&gt;
+        &lt;mj-group&gt;
+          &lt;mj-column width="100%" padding-right="0"&gt;
+            &lt;mj-text color="#445566" font-size="11px" align="center" line-height="16px" font-weight="bold"&gt;
+              &lt;a class="footer-link" href="https://www.google.com"&gt;Privacy&lt;/a&gt;&amp;#xA0;&amp;#xA0;&amp;#xA0;&amp;#xA0;&amp;#xA0;&amp;#xA0;&amp;#xA0;&amp;#xA0;&lt;a class="footer-link" href="https://www.google.com"&gt;Unsubscribe&lt;/a&gt;
+            &lt;/mj-text&gt;
+          &lt;/mj-column&gt;
+        &lt;/mj-group&gt;
+
+      &lt;/mj-section&gt;
+    &lt;/mj-wrapper&gt;
+
+  &lt;/mj-body&gt;
+&lt;/mjml&gt;]]&gt;&lt;/mjml&gt;
+        &lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;
+        &lt;sys_created_on&gt;2022-06-08 04:03:26&lt;/sys_created_on&gt;
+        &lt;sys_id&gt;e766a6cc2f041110bd54d5f62799b62b&lt;/sys_id&gt;
+        &lt;sys_mod_count&gt;7&lt;/sys_mod_count&gt;
+        &lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;
+        &lt;sys_updated_on&gt;2022-06-08 04:09:35&lt;/sys_updated_on&gt;
+        &lt;template_variables&gt;&lt;![CDATA[(function(){
+	return {
+		location: "Minneapolis",
+		locationState: "MN",
+		locationName: "Minneapolis Convention Center",
+		locationAddress: "123 Main Street, 78701",
+		openDate: "December 20th"
+		// hostname: gs.getProperty('instance_name'),
+		// brand: "Awesome Brand"
+		// put other things here that you will call in the mjml field and assign the scripted or static value.
+		// then in the mjml field use {{mjml.brand}} or {{mjml.yourVariableHere}}
+		// if you want to use something from the current record that generated the email use 
+		// {{current.field}} or {{event.parm1}}
+	};
+})(current);]]&gt;&lt;/template_variables&gt;
+    &lt;/x_298439_mjml_templates&gt;
+&lt;/record_update&gt;
+</payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-08 05:10:27</sys_created_on>
+        <sys_id>ef36bac02f841110bd54d5f62799b6bb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>MJML Test Notification - Space is openin</sys_name>
+        <sys_package display_value="MJML" source="x_298439_mjml">2eb6ab4f2f62c1100ed2ff1df699b610</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MJML">2eb6ab4f2f62c1100ed2ff1df699b610</sys_scope>
+        <sys_update_name>sys_metadata_link_ef36bac02f841110bd54d5f62799b6bb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-08 05:10:27</sys_updated_on>
+        <tablename>x_298439_mjml_templates</tablename>
+    </sys_metadata_link>
+</record_update>

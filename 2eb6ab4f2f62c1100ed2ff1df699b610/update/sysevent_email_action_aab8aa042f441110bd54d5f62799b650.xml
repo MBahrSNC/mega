@@ -38,7 +38,7 @@
         <message_html><![CDATA[<p>${mail_script:mjml_notification_script}</p>]]></message_html>
         <message_list/>
         <message_text/>
-        <name>MJML Test Notification</name>
+        <name>MJML Test Notification - Welcome</name>
         <omit_watermark>false</omit_watermark>
         <order>100</order>
         <push_message_only>false</push_message_only>
@@ -53,19 +53,19 @@
         <subscribable>false</subscribable>
         <sys_class_name>sysevent_email_action</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2022-04-04 03:49:28</sys_created_on>
+        <sys_created_on>2022-06-08 04:11:23</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>30343bcb2fa2c1100ed2ff1df699b650</sys_id>
-        <sys_mod_count>22</sys_mod_count>
-        <sys_name>MJML Test Notification</sys_name>
+        <sys_id>aab8aa042f441110bd54d5f62799b650</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>MJML Test Notification - Welcome</sys_name>
         <sys_overrides/>
         <sys_package display_value="MJML" source="x_298439_mjml">2eb6ab4f2f62c1100ed2ff1df699b610</sys_package>
         <sys_policy/>
         <sys_scope display_value="MJML">2eb6ab4f2f62c1100ed2ff1df699b610</sys_scope>
-        <sys_update_name>sysevent_email_action_30343bcb2fa2c1100ed2ff1df699b650</sys_update_name>
+        <sys_update_name>sysevent_email_action_aab8aa042f441110bd54d5f62799b650</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-06-08 04:23:08</sys_updated_on>
+        <sys_updated_on>2022-06-08 04:11:23</sys_updated_on>
         <sys_version>2</sys_version>
         <template/>
         <type>email</type>

@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>d6c8a6042f441110bd54d5f62799b683</documentkey>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="x_298439_mjml_templates"&gt;
+    &lt;x_298439_mjml_templates action="INSERT_OR_UPDATE"&gt;
+        &lt;email_notification display_value="MJML Test Notification - Welcome"&gt;aab8aa042f441110bd54d5f62799b650&lt;/email_notification&gt;
+        &lt;html&gt;&amp;lt;!doctype html&amp;gt;
+&amp;lt;html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office"&amp;gt;
+  &amp;lt;head&amp;gt;
+    &amp;lt;title&amp;gt;
+      
+    &amp;lt;/title&amp;gt;
+    &amp;lt;!--[if !mso]&amp;gt;&amp;lt;!--&amp;gt;
+    &amp;lt;meta http-equiv="X-UA-Compatible" content="IE=edge"&amp;gt;
+    &amp;lt;!--&amp;lt;![endif]--&amp;gt;
+    &amp;lt;meta http-equiv="Content-Type" content="text/html; charset=UTF-8"&amp;gt;
+    &amp;lt;meta name="viewport" content="width=device-width, initial-scale=1"&amp;gt;
+    &amp;lt;style type="text/css"&amp;gt;
+      #outlook a { padding:0; }
+      body { margin:0;padding:0;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%; }
+      table, td { border-collapse:collapse;mso-table-lspace:0pt;mso-table-rspace:0pt; }
+      img { border:0;height:auto;line-height:100%; outline:none;text-decoration:none;-ms-interpolation-mode:bicubic; }
+      p { display:block;margin:13px 0; }
+    &amp;lt;/style&amp;gt;
+    &amp;lt;!--[if mso]&amp;gt;
+    &amp;lt;noscript&amp;gt;
+    &amp;lt;xml&amp;gt;
+    &amp;lt;o:OfficeDocumentSettings&amp;gt;
+      &amp;lt;o:AllowPNG/&amp;gt;
+      &amp;lt;o:PixelsPerInch&amp;gt;96&amp;lt;/o:PixelsPerInch&amp;gt;
+    &amp;lt;/o:OfficeDocumentSettings&amp;gt;
+    &amp;lt;/xml&amp;gt;
+    &amp;lt;/noscript&amp;gt;
+    &amp;lt;![endif]--&amp;gt;
+    &amp;lt;!--[if lte mso 11]&amp;gt;
+    &amp;lt;style type="text/css"&amp;gt;
+      .mj-outlook-group-fix { width:100% !important; }
+    &amp;lt;/style&amp;gt;
+    &amp;lt;![endif]--&amp;gt;
+    
+      &amp;lt;!--[if !mso]&amp;gt;&amp;lt;!--&amp;gt;
+        &amp;lt;link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,500,700" rel="stylesheet" type="text/css"&amp;gt;
+        &amp;lt;style type="text/css"&amp;gt;
+          @import url(https://fonts.googleapis.com/css?family=Open+Sans:300,400,500,700);
+        &amp;lt;/style&amp;gt;
+      &amp;lt;!--&amp;lt;![endif]--&amp;gt;
+
+    
+    
+    &amp;lt;style type="text/css"&amp;gt;
+      @media only screen and (min-width:480px) {
+        .mj-column-per-100 { width:100% !important; max-width: 100%; }
+      }
+    &amp;lt;/style&amp;gt;
+    &amp;lt;style media="screen and (min-width:480px)"&amp;gt;
+      .moz-text-html .mj-column-per-100 { width:100% !important; max-width: 100%; }
+    &amp;lt;/style&amp;gt;
+    
+  
+    &amp;lt;style type="text/css"&amp;gt;
+    
+    
+
+    @media only screen and (max-width:480px) {
+      table.mj-full-width-mobile { width: 100% !important; }
+      td.mj-full-width-mobile { width: auto !important; }
+    }
+  
+    &amp;lt;/style&amp;gt;
+    &amp;lt;style type="text/css"&amp;gt;
+    
+    &amp;lt;/style&amp;gt;
+    
+  &amp;lt;/head&amp;gt;
+  &amp;lt;body style="word-spacing:normal;background-color:#ffffff;"&amp;gt;
+    
+    
+      &amp;lt;div
+         style="background-color:#ffffff;"
+      &amp;gt;
+        
+      
+      &amp;lt;!--[if mso | IE]&amp;gt;&amp;lt;table align="center" border="0" cellpadding="0" cellspacing="0" class="" role="presentation" style="width:600px;" width="600" bgcolor="#ffffff" &amp;gt;&amp;lt;tr&amp;gt;&amp;lt;td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"&amp;gt;&amp;lt;![endif]--&amp;gt;
+    
+      
+      &amp;lt;div  style="background:#ffffff;background-color:#ffffff;margin:0px auto;max-width:600px;"&amp;gt;
+        
+        &amp;lt;table
+           align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background:#ffffff;background-color:#ffffff;width:100%;"
+        &amp;gt;
+          &amp;lt;tbody&amp;gt;
+            &amp;lt;tr&amp;gt;
+              &amp;lt;td
+                 style="direction:ltr;font-size:0px;padding:20px 0;padding-bottom:0px;padding-top:0;text-align:center;"
+              &amp;gt;
+                &amp;lt;!--[if mso | IE]&amp;gt;&amp;lt;table role="presentation" border="0" cellpadding="0" cellspacing="0"&amp;gt;&amp;lt;tr&amp;gt;&amp;lt;td class="" style="vertical-align:top;width:600px;" &amp;gt;&amp;lt;![endif]--&amp;gt;
+            
+      &amp;lt;div
+         class="mj-column-per-100 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;"
+      &amp;gt;
+        
+      &amp;lt;table
+         border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:top;" width="100%"
+      &amp;gt;
+        &amp;lt;tbody&amp;gt;
+          
+              &amp;lt;tr&amp;gt;
+                &amp;lt;td
+                   align="center" style="font-size:0px;padding:10px 25px;padding-top:0;padding-right:0px;padding-bottom:0px;padding-left:0px;word-break:break-word;"
+                &amp;gt;
+                  
+      &amp;lt;table
+         border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse:collapse;border-spacing:0px;"
+      &amp;gt;
+        &amp;lt;tbody&amp;gt;
+          &amp;lt;tr&amp;gt;
+            &amp;lt;td  style="width:600px;"&amp;gt;
+              
+      &amp;lt;img
+         alt="" height="auto" src="http://go.mailjet.com/tplimg/mtrq/b/ox8s/mg1rw.png" style="border:none;display:block;outline:none;text-decoration:none;height:auto;width:100%;font-size:13px;" width="600"
+      /&amp;gt;
+    
+            &amp;lt;/td&amp;gt;
+          &amp;lt;/tr&amp;gt;
+        &amp;lt;/tbody&amp;gt;
+      &amp;lt;/table&amp;gt;
+    
+                &amp;lt;/td&amp;gt;
+              &amp;lt;/tr&amp;gt;
+            
+        &amp;lt;/tbody&amp;gt;
+      &amp;lt;/table&amp;gt;
+    
+      &amp;lt;/div&amp;gt;
+    
+          &amp;lt;!--[if mso | IE]&amp;gt;&amp;lt;/td&amp;gt;&amp;lt;/tr&amp;gt;&amp;lt;/table&amp;gt;&amp;lt;![endif]--&amp;gt;
+              &amp;lt;/td&amp;gt;
+            &amp;lt;/tr&amp;gt;
+          &amp;lt;/tbody&amp;gt;
+        &amp;lt;/table&amp;gt;
+        
+      &amp;lt;/div&amp;gt;
+    
+      
+      &amp;lt;!--[if mso | IE]&amp;gt;&amp;lt;/td&amp;gt;&amp;lt;/tr&amp;gt;&amp;lt;/table&amp;gt;&amp;lt;table align="center" border="0" cellpadding="0" cellspacing="0" class="" role="presentation" style="width:600px;" width="600" bgcolor="#009FE3" &amp;gt;&amp;lt;tr&amp;gt;&amp;lt;td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"&amp;gt;&amp;lt;![endif]--&amp;gt;
+    
+      
+      &amp;lt;div  style="background:#009FE3;background-color:#009FE3;margin:0px auto;max-width:600px;"&amp;gt;
+        
+        &amp;lt;table
+           align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background:#009FE3;background-color:#009FE3;width:100%;"
+        &amp;gt;
+          &amp;lt;tbody&amp;gt;
+            &amp;lt;tr&amp;gt;
+              &amp;lt;td
+                 style="direction:ltr;font-size:0px;padding:20px 0;padding-bottom:0px;padding-top:0;text-align:center;"
+              &amp;gt;
+                &amp;lt;!--[if mso | IE]&amp;gt;&amp;lt;table role="presentation" border="0" cellpadding="0" cellspacing="0"&amp;gt;&amp;lt;tr&amp;gt;&amp;lt;td class="" style="vertical-align:top;width:600px;" &amp;gt;&amp;lt;![endif]--&amp;gt;
+            
+      &amp;lt;div
+         class="mj-column-per-100 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:top;width:100%;"
+      &amp;gt;
+        
+      &amp;lt;table
+         border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:top;" width="100%"
+      &amp;gt;
+        &amp;lt;tbody&amp;gt;
+          
+              &amp;lt;tr&amp;gt;
+                &amp;lt;td
+                   align="left" style="font-size:0px;padding:10px 25px;padding-top:50px;padding-right:25px;padding-bottom:30px;padding-left:25px;word-break:break-word;"
+                &amp;gt;
+                  
+      &amp;lt;div
+         style="font-family:open Sans Helvetica, Arial, sans-serif;font-size:45px;font-weight:bold;line-height:1;text-align:left;color:#ffffff;"
+      &amp;gt;Welcome aboard&amp;lt;/div&amp;gt;
+    
+                &amp;lt;/td&amp;gt;
+              &amp;lt;/tr&amp;gt;
+            
+        &amp;lt;/tbody&amp;gt;
+      &amp;lt;/table&amp;gt;
+    
+      &amp;lt;/div&amp;gt;
+    
+          &amp;lt;!--[if mso | IE]&amp;gt;&amp;lt;/td&amp;gt;&amp;lt;/tr&amp;gt;&amp;lt;/table&amp;gt;&amp;lt;![endif]--&amp;gt;
+              &amp;lt;/td&amp;gt;
+            &amp;lt;/tr&amp;gt;
+          &amp;lt;/tbody&amp;gt;
+        &amp;lt;/table&amp;gt;
+        
+      &amp;lt;/div&amp;gt;
+    
+      
+      &amp;lt;!--[if mso | IE]&amp;gt;&amp;lt;/td&amp;gt;&amp;lt;/tr&amp;gt;&amp;lt;/table&amp;gt;&amp;lt;table align="center" border="0" cellpadding="0" cellspacing="0" class="" role="presentation" style="width:600px;" width="600" bgcolor="#009fe3" &amp;gt;&amp;lt;tr&amp;gt;&amp;lt;td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"&amp;gt;&amp;lt;![endif]--&amp;gt;
+    
+      
+      &amp;lt;div  style="background:#009fe3;background-color:#009fe3;margin:0px auto;max-width:600px;"&amp;gt;
+        
+        &amp;lt;table
+           align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background:#009fe3;background-color:#009fe3;width:100%;"
+        &amp;gt;
+          &amp;lt;tbody&amp;gt;
+            &amp;lt;tr&amp;gt;
+              &amp;lt;td
+                 style="direction:ltr;font-size:0px;padding:20px 0;padding-bottom:20px;padding-top:20px;text-align:center;"
+              &amp;gt;
+                &amp;lt;!--[if mso | IE]&amp;gt;&amp;lt;table role="presentation" border="0" cellpadding="0" cellspacing="0"&amp;gt;&amp;lt;tr&amp;gt;&amp;lt;td class="" style="vertical-align:middle;width:600px;" &amp;gt;&amp;lt;![endif]--&amp;gt;
+            
+      &amp;lt;div
+         class="mj-column-per-100 mj-outlook-group-fix" style="font-size:0px;text-align:left;direction:ltr;display:inline-block;vertical-align:middle;width:100%;"
+      &amp;gt;
+        
+      &amp;lt;table
+         border="0" cellpadding="0" cellspacing="0" role="presentation" style="vertical-align:middle;" width="100%"
+      &amp;gt;
+        &amp;lt;tbody&amp;gt;
+          
+              &amp;lt;tr&amp;gt;
+                &amp;lt;td
+                   align="left" style="font-size:0px;padding:10px 25px;padding-right:25px;padding-left:25px;word-break:break-word;"
+                &amp;gt;
+                  
+      &amp;lt;div
+         style="font-family:open Sans Helvetica, Arial, sans-serif;font-size:22px;line-height:1;text-align:left;color:#ffffff;"
+      &amp;gt;&amp;lt;span style="color:#FEEB35"&amp;gt;&amp;#13;
+            Dear &amp;#13;
+          &amp;lt;/span&amp;gt;&amp;#13;
+          &amp;lt;br /&amp;gt;&amp;#13;
+          &amp;lt;br /&amp;gt;&amp;#13;
+          Welcome to Acme.&amp;lt;/div&amp;gt;
+    
+                &amp;lt;/td&amp;gt;
+              &amp;lt;/tr&amp;gt;
+            
+              &amp;lt;tr&amp;gt;
+                &amp;lt;td
+                   align="left" style="font-size:0px;padding:10px 25px;padding-right:25px;padding-left:25px;word-break:break-word;"
+                &amp;gt;
+                  
+      &amp;lt;div
+         style="font-family:open Sans Helvetica, Arial, sans-serif;font-size:15px;line-height:1;text-align:left;color:#ffffff;"
+      &amp;gt;We&amp;amp;apos;re really excited you&amp;amp;apos;ve decided to give us a try. &amp;#13;
+          In case you have any questions, feel free to reach out to us at support@example.com. &amp;#13;
+          You can login to your account with your username {{current.caller_id.email}}&amp;lt;/div&amp;gt;
+    
+                &amp;lt;/td&amp;gt;
+              &amp;lt;/tr&amp;gt;
+            
+              &amp;lt;tr&amp;gt;
+                &amp;lt;td
+                   align="left" vertical-align="middle" style="font-size:0px;padding:10px 25px;word-break:break-word;"
+                &amp;gt;
+                  
+      &amp;lt;table
+         border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse:separate;line-height:100%;"
+      &amp;gt;
+        &amp;lt;tbody&amp;gt;
+          &amp;lt;tr&amp;gt;
+            &amp;lt;td
+               align="center" bgcolor="#ffffff" role="presentation" style="border:none;border-radius:10px;cursor:auto;mso-padding-alt:10px 25px;background:#ffffff;" valign="middle"
+            &amp;gt;
+              &amp;lt;p
+                 style="display:inline-block;background:#ffffff;color:#1AA0E1;font-family:open Sans Helvetica, Arial, sans-serif;font-size:22px;font-weight:bold;line-height:120%;margin:0;text-decoration:none;text-transform:none;padding:10px 25px;mso-padding-alt:0px;border-radius:10px;"
+              &amp;gt;
+                Login
+              &amp;lt;/p&amp;gt;
+            &amp;lt;/td&amp;gt;
+          &amp;lt;/tr&amp;gt;
+        &amp;lt;/tbody&amp;gt;
+      &amp;lt;/table&amp;gt;
+    
+                &amp;lt;/td&amp;gt;
+              &amp;lt;/tr&amp;gt;
+            
+              &amp;lt;tr&amp;gt;
+                &amp;lt;td
+                   align="left" style="font-size:0px;padding:10px 25px;padding-right:25px;padding-left:25px;word-break:break-word;"
+                &amp;gt;
+                  
+      &amp;lt;div
+         style="font-family:open Sans Helvetica, Arial, sans-serif;font-size:15px;line-height:1;text-align:left;color:#ffffff;"
+      &amp;gt;Thanks, &amp;lt;br /&amp;gt; The Acme Team&amp;lt;/div&amp;gt;
+    
+                &amp;lt;/td&amp;gt;
+              &amp;lt;/tr&amp;gt;
+            
+        &amp;lt;/tbody&amp;gt;
+      &amp;lt;/table&amp;gt;
+    
+      &amp;lt;/div&amp;gt;
+    
+          &amp;lt;!--[if mso | IE]&amp;gt;&amp;lt;/td&amp;gt;&amp;lt;/tr&amp;gt;&amp;lt;/table&amp;gt;&amp;lt;![endif]--&amp;gt;
+              &amp;lt;/td&amp;gt;
+            &amp;lt;/tr&amp;gt;
+          &amp;lt;/tbody&amp;gt;
+        &amp;lt;/table&amp;gt;
+        
+      &amp;lt;/div&amp;gt;
+    
+      
+      &amp;lt;!--[if mso | IE]&amp;gt;&amp;lt;/td&amp;gt;&amp;lt;/tr&amp;gt;&amp;lt;/table&amp;gt;&amp;lt;![endif]--&amp;gt;
+    
+    
+      &amp;lt;/div&amp;gt;
+    
+  &amp;lt;/body&amp;gt;
+&amp;lt;/html&amp;gt;
+  &lt;/html&gt;
+        &lt;mjml&gt;&lt;![CDATA[&lt;mjml&gt;
+  &lt;mj-body background-color="#ffffff" font-size="13px"&gt;
+    &lt;mj-section background-color="#ffffff" padding-bottom="0px" padding-top="0"&gt;
+      &lt;mj-column vertical-align="top" width="100%"&gt;
+        &lt;mj-image src="http://go.mailjet.com/tplimg/mtrq/b/ox8s/mg1rw.png" alt="" align="center" border="none" width="600px" padding-left="0px" padding-right="0px" padding-bottom="0px" padding-top="0"&gt;&lt;/mj-image&gt;
+      &lt;/mj-column&gt;
+    &lt;/mj-section&gt;
+    &lt;mj-section background-color="#009FE3" vertical-align="top" padding-bottom="0px" padding-top="0"&gt;
+      &lt;mj-column vertical-align="top" width="100%"&gt;
+        &lt;mj-text align="left" color="#ffffff" font-size="45px" font-weight="bold" font-family="open Sans Helvetica, Arial, sans-serif" padding-left="25px" padding-right="25px" padding-bottom="30px" padding-top="50px"&gt;Welcome aboard&lt;/mj-text&gt;
+      &lt;/mj-column&gt;
+    &lt;/mj-section&gt;
+    &lt;mj-section background-color="#009fe3" padding-bottom="20px" padding-top="20px"&gt;
+      &lt;mj-column vertical-align="middle" width="100%"&gt;
+        &lt;mj-text 
+          align="left" 
+          color="#ffffff" 
+          font-size="22px" 
+          font-family="open Sans Helvetica, Arial, sans-serif" 
+          padding-left="25px" 
+          padding-right="25px"&gt;
+          &lt;span style="color:#FEEB35"&gt;
+            Dear ${caller_id.first_name}
+          &lt;/span&gt;
+          &lt;br /&gt;
+          &lt;br /&gt;
+          Welcome to {{mjml.company}}.
+        &lt;/mj-text&gt;
+        &lt;mj-text 
+          align="left" 
+          color="#ffffff" 
+          font-size="15px" 
+          font-family="open Sans Helvetica, Arial, sans-serif" 
+          padding-left="25px" 
+          padding-right="25px"&gt;
+          We&amp;apos;re really excited you&amp;apos;ve decided to give us a try. 
+          In case you have any questions, feel free to reach out to us at {{mjml.email}}. 
+          You can login to your account with your username {{current.caller_id.email}}
+        &lt;/mj-text&gt;
+        &lt;mj-button 
+          align="left" 
+          font-size="22px" 
+          font-weight="bold" 
+          background-color="#ffffff" 
+          border-radius="10px" 
+          color="#1AA0E1" 
+          font-family="open Sans Helvetica, Arial, sans-serif"&gt;Login
+        &lt;/mj-button&gt;
+        &lt;mj-text 
+          align="left"
+          color="#ffffff"
+          font-size="15px"
+          font-family="open Sans Helvetica, Arial, sans-serif"
+          padding-left="25px"
+          padding-right="25px"&gt;
+          Thanks, &lt;br /&gt; The {{mjml.company}} Team
+        &lt;/mj-text&gt;
+      &lt;/mj-column&gt;
+    &lt;/mj-section&gt;
+  &lt;/mj-body&gt;
+&lt;/mjml&gt;]]&gt;&lt;/mjml&gt;
+        &lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;
+        &lt;sys_created_on&gt;2022-06-08 04:13:50&lt;/sys_created_on&gt;
+        &lt;sys_id&gt;d6c8a6042f441110bd54d5f62799b683&lt;/sys_id&gt;
+        &lt;sys_mod_count&gt;32&lt;/sys_mod_count&gt;
+        &lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;
+        &lt;sys_updated_on&gt;2022-06-08 04:44:17&lt;/sys_updated_on&gt;
+        &lt;template_variables&gt;&lt;![CDATA[(function(){
+	return {
+		company: "Acme",
+		email: "support@example.com"
+	};
+})();]]&gt;&lt;/template_variables&gt;
+    &lt;/x_298439_mjml_templates&gt;
+&lt;/record_update&gt;
+</payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-08 05:10:26</sys_created_on>
+        <sys_id>2736bac02f841110bd54d5f62799b6b9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>MJML Test Notification - Welcome</sys_name>
+        <sys_package display_value="MJML" source="x_298439_mjml">2eb6ab4f2f62c1100ed2ff1df699b610</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MJML">2eb6ab4f2f62c1100ed2ff1df699b610</sys_scope>
+        <sys_update_name>sys_metadata_link_2736bac02f841110bd54d5f62799b6b9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-08 05:10:26</sys_updated_on>
+        <tablename>x_298439_mjml_templates</tablename>
+    </sys_metadata_link>
+</record_update>
